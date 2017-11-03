@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Yoran Brondsema"
+theme = "hugo-theme-cactus-plus"
+
+[params.social]
+email = "yoran.brondsema@gmail.com"

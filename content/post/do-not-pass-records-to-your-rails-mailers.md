@@ -40,7 +40,7 @@ This is the sequence of events that caused this error:
 
 The consequences are not severe in the sense that the mail simply won't get sent
 because of the exception. However, it's never a good thing to have preventable
-exceptions in your log as it clutters and removes the attention from real
+exceptions in your log as it clutters it and removes the attention from real
 exceptions. Therefore, it should be cleaned up. This is further aggravated by
 the fact that some background processors, e.g.
 [Sidekiq](https://github.com/mperham/sidekiq), retry a job multiple times before

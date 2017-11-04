@@ -1,8 +1,9 @@
-+++
-title = "yoranbrondsema.com v2.0"
-date = 2017-11-02T19:37:17-05:00
-tags = ["Meta"]
-+++
+---
+title: "yoranbrondsema.com v2.0"
+date: 2017-11-02T19:37:17-05:00
+slug: "yoranbrondsema-com-v2-0"
+tags: ["Meta"]
+---
 
 Unfortunately I was too laxist with renewing the hosting that this website was
 previously using. By the time I wanted to renew, it was too late and the entire

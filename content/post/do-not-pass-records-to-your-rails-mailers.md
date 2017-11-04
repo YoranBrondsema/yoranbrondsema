@@ -3,7 +3,6 @@ title: "Do not pass records to your Rails mailers"
 date: 2017-11-04T15:46:43-05:00
 slug: "do-not-pass-records-to-your-rails-mailers"
 tags: ["Rails"]
-draft: true
 ---
 
 ### The problem

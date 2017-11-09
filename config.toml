@@ -2,7 +2,7 @@ baseURL = "https://yoranbrondsema.com/"
 languageCode = "en-us"
 title = "Yoran Brondsema"
 theme = "hugo-theme-cactus-plus"
-# googleAnalytics = "your_google_analytics_code"
+googleAnalytics = "UA-109409655-1"
 
 [params]
   name = "Yoran Brondsema"
@@ -23,7 +23,7 @@ theme = "hugo-theme-cactus-plus"
   enableGithubIssuesTips = false
 
   # Enable googleAnalytics
-  enableGoogleAnalytics = false
+  enableGoogleAnalytics = true
 
   # Enable baiduAnalytics
   enableBaiduAnalytics = false

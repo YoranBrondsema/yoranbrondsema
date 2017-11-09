@@ -2,6 +2,7 @@ baseURL = "https://yoranbrondsema.com/"
 languageCode = "en-us"
 title = "Yoran Brondsema"
 theme = "hugo-theme-cactus-plus"
+# googleAnalytics = "your_google_analytics_code"
 
 [params]
   name = "Yoran Brondsema"
@@ -10,9 +11,9 @@ theme = "hugo-theme-cactus-plus"
 
 
   # Disqus comment
-  disqusShortname = "your_disqus_short_name"
+  disqusShortname = "yoran-brondsema"
   # Disable disqus comments by set `enableDisqus = "false"`
-  enableDisqus = false
+  enableDisqus = true
 
   # Duoshuo comment
   duoshuoShortname = "your_duoshuo_short_name"

@@ -1,2 +1,2 @@
-Yoran is CTO of Sutori. He is a full-stack web developer and does most of his
-work on Ember.js and Ruby on Rails.
+I'm the CTO of Sutori and a full-stack web developer. I do most of my work on
+Ember.js and Ruby on Rails.

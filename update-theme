@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd themes
+rm -rf hugo-theme-cactus-plus
+git clone git@github.com:YoranBrondsema/hugo-theme-cactus-plus.git

@@ -22,7 +22,7 @@ counted the number of tokens they had to type to fix a particular bug. I didn't
 find the results of this part very solid because this method doesn't take into
 account the "reasoning" time. However, they did come to the valid conclusion
 that Flow has an advantage over TypeScript here as its stronger inference system
-requires less type annotations to detect typing bugs.
+requires less type annotations to detect typing bugs.[^1]
 
 I have no practical experience with either type checker yet. However, I have
 worked in statically typed compiled languages before and I always felt a certain
@@ -39,3 +39,5 @@ list of bugs that were preventable with a static type checker. Unfortunately, I
 couldn't find any such list. I would have liked to go through and see what
 classes of bugs are typically caught, mainly to gain more intuition and apply
 this knowledge on the codebase that I work on.
+
+[^1]: There was an interesting discussion comparing Flow and TypeScript on [Hacker News](https://news.ycombinator.com/item?id=15651494) the day after I wrote this article.

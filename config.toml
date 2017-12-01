@@ -6,8 +6,8 @@ googleAnalytics = "UA-109409655-1"
 
 [params]
   name = "Yoran Brondsema"
-  description = "Full-stack web developer"
-  bio = "Full-stack web developer"
+  description = "Programmer"
+  bio = "Programmer"
 
 
   # Disqus comment

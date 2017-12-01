@@ -46,6 +46,10 @@ so I perform a deployment after each Git push:
     hugo
     hugodeploy
 
+
+*Update (Nov 30th 2017): The blog is now <a href="{{< ref
+"post/move-to-netlify.md" >}}">hosted on Netlify</a>.*
+
 ### Conclusion
 It's a shame the old blog was deleted but it's an opportunity to start afresh.
 I'm already in love with the immediacy of a static site generator. I press

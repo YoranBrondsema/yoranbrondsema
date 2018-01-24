@@ -5,9 +5,8 @@ slug: intro-to-passive-investing
 tags: ["Investing"]
 ---
 
-For the past few months I've been interested in passive investing. I [read
-books](https://www.goodreads.com/list/show/120281.Books_about_investing), did
-research online and have been investing a portion of my savings.
+For the past few months I've been interested in passive investing. I [read books](https://www.goodreads.com/list/show/120281.Books_about_investing),
+did research online and have been investing a portion of my savings.
 
 Many of the things I read are targeted to investors living in the US.
 Fortunately, a lot of the knowledge carries over to any other country. Still,
@@ -31,8 +30,7 @@ you trade daily or multiple times per day).
 
 ### Spread the risks
 The S&P 500, i.e. the 500 biggest American companies, has had an average yearly
-return of 10% since its inception in 1928. As you can see on [this
-table](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html),
+return of 10% since its inception in 1928. As you can see on [this table](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html),
 it has hit returns as high as 52% (in 1954) and lows as low as -43.84% (in
 1931). However, if you take a long-enough time period such as 30 years, the
 average return rate will be around 10%. The ever-increasing productivity due to
@@ -43,8 +41,7 @@ is that you invest in a collection of stocks rather than an individual stock.
 This greatly lowers the risk as it spreads your bets across an entire industry
 (e.g. technology), geographical region (e.g. emerging markets) or even the
 entire world. By investing in a set of diverse high-risk stocks, you lower the
-risk of the entire portfolio. This is the basis of [Modern portfolio
-theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory#Diversification). 
+risk of the entire portfolio. This is the basis of [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory#Diversification). 
 
 ### Index funds and ETFs
 You'll find many books and resources talk about index funds, such as those

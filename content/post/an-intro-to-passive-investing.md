@@ -51,5 +51,6 @@ are differences between ETFs and index funds but the main point is that both
 follow a collection of stocks instead of an individual stock.
 
 ### How do I start investing in Belgium?
-In the next blog post I will dive deeper into how to start with passive
-investing if you live in Belgium.
+Please see my next post <a href="{{< ref
+"post/passive-investing-in-belgium.md"
+>}}">Passive investing in Belgium</a>.

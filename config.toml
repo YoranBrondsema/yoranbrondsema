@@ -6,9 +6,8 @@ googleAnalytics = "UA-109409655-1"
 
 [params]
   name = "Yoran Brondsema"
-  description = "Programmer"
-  bio = "Programmer"
-
+  description = "CTO of Sutori"
+  bio = "CTO of Sutori"
 
   # Disqus comment
   disqusShortname = "yoran-brondsema"

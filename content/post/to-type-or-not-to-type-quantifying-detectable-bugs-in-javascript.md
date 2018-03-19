@@ -2,7 +2,7 @@
 title: "To Type or Not to Type: Quantifying Detectable Bugs in Javascript"
 date: 2017-11-08T21:48:27-06:00
 slug: 'do-type-or-not-to-type-quantifying-detectable-bugs-in-javascript'
-tags: ["Javascript", "Papers"]
+tags: ["Javascript", "Papers", "Programming"]
 ---
 
 Tonight I read an interesting paper entitled

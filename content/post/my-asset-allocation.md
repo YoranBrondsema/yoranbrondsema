@@ -5,7 +5,7 @@ slug: my-asset-allocation
 tags: ["Investing"]
 ---
 
-In a previous post, I explained some of the <a href="{{< ref "post/a-crash-course-on-asset-allocation" >}}">basic principles of asset allocation</a>.
+In a previous post, I explained some of the <a href="{{< ref "post/a-crash-course-on-asset-allocation.md" >}}">basic principles of asset allocation</a>.
 Here, I am going to present the concrete selection of ETFs that I have started
 building up since February of this year. First I am going to go over the
 various allocation classes that are in my portfolio. After that, I will show
@@ -75,7 +75,7 @@ the biggest portion of my portoflio at 50%.
 
 ### Small cap
 A small cap fund is a fund that invests in smaller companies but that are still
-publicly traded. In <a href="{{< ref "post/a-crash-course-on-asset-allocation" >}}">"A crash course on asset allocation"</a>
+publicly traded. In <a href="{{< ref "post/a-crash-course-on-asset-allocation.md" >}}">"A crash course on asset allocation"</a>
 I talked about how important it is to pick securities in your portfolio that are
 not correlated or negatively correlated. This is exactly the utility of a small
 cap fund in a portfolio. History shows that there are periods where the largest
@@ -103,7 +103,7 @@ pick specific ETFs for each class. This is where the country to live in matters
 as some funds are only available to US investors and others are targeted for
 European investors.
 
-Let's recap the <a href="{{< ref "post/passive-investing-in-belgium" >}}">criteria for a Belgian investor</a>:
+Let's recap the <a href="{{< ref "post/passive-investing-in-belgium.md" >}}">criteria for a Belgian investor</a>:
 
 * always pick accumulating ETFs
 * invest in funds domiciled in Ireland or Luxembourg

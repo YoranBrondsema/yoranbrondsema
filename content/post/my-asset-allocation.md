@@ -1,6 +1,8 @@
 ---
 title: "My asset allocation"
 date: 2018-05-04T21:17:07-05:00
+slug: my-asset-allocation
+tags: ["Investing"]
 ---
 
 In a previous post, I explained some of the <a href="{{< ref "post/a-crash-course-on-asset-allocation" >}}">basic principles of asset allocation</a>.

@@ -1,6 +1,6 @@
 ---
 title: "My asset allocation"
-date: 2018-05-04T21:17:07-05:00
+date: 2018-05-08T21:17:07-05:00
 slug: my-asset-allocation
 tags: ["Investing"]
 ---

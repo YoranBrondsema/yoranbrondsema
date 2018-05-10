@@ -3,7 +3,7 @@ title: "What If I Lose My 2FA"
 date: 2018-05-01T20:42:46-05:00
 ---
 
-### Be prepared for the day you lose your phone
+## Be prepared for the day you lose your phone
 
 Last weekend I released a little side-project called
 <a href="https://www.whatifilosemy2fa.com/">What If I Lose My 2FA</a>. The impetus
@@ -35,10 +35,10 @@ It gives exactly the information that you need to keep in order to recover your
 account for a variety of services.
 
 I hope it's of use to you! And don't hesitate to fill out the
-<a href="https://yoranbrondsema.typeform.com/to/xd9LJ3">form to propose a
-service</a> if there's one you'd like to see up there.
+<a href="https://yoranbrondsema.typeform.com/to/xd9LJ3">form to propose a service</a>
+if there's one you'd like to see up there.
 
-### Some technical specs
+## Some technical specs
 * The website is a single-page application built with Ember.js. It's most
   certainly overkill for this project but it's what I know best. Therefore I
   was able to build and deploy it in a couple of hours.
@@ -49,4 +49,4 @@ service</a> if there's one you'd like to see up there.
   addon.
 * Deployed and hosted by Netlify. The Heroku-esque way of automatically
   deploying after a `git push origin master` is so easy. Setting up HTTPS is
-  also a freeze. And it's free for static websites!
+  also a breeze. And it's free for static websites!

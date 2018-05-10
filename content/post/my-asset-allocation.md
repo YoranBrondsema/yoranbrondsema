@@ -3,6 +3,7 @@ title: "My asset allocation"
 date: 2018-05-08T21:17:07-05:00
 slug: my-asset-allocation
 tags: ["Investing"]
+toc: true
 ---
 
 In a previous post, I explained some of the <a href="{{< ref "post/a-crash-course-on-asset-allocation.md" >}}">basic principles of asset allocation</a>.
@@ -12,7 +13,7 @@ various allocation classes that are in my portfolio. After that, I will show
 which ETFs I selected for each class. This latter part is especially interesting
 for other Belgian investors.
 
-## The portfolio in allocation classes
+## My portfolio
 After reading a lot on the matter (not that I am done learning), I settled on
 the portfolio below.
 
@@ -97,6 +98,30 @@ REIT, or real-estate investment trusts, are funds that invest in the real-estate
 market. This market moves fairly distinctly from the bond or stock market.
 Therefore, they're great for diversification.
 
+## What's not in my portfolio
+The portfolio is diversified over:
+
+* __geographical areas__: the MSCI World index covers the 23
+  biggest economies in the world and the emerging markets are also represented.
+* __asset classes__: the portfolio represents bonds, stocks and the
+  real-estate market.
+* __market cap__: the small caps fund makes sure that smaller
+  companies are also included.
+
+However, it does not have:
+
+* __individual stocks__: I think that individual stocks are too
+  risky for the purpose of my portfolio, i.e. to save for the long-term. I do
+  own a couple of individual stocks but I put those in a "play-portfolio".
+* __sector-specific funds__: there are ETFs that track specific
+  industries, for instance tech, automotive, AI,... However, I deem these too
+  risky too. In the end, all the sectors are already represented in the various
+  funds that I own.
+* __commodities__: I don't understand these markets enough and
+  chose not to include them. However, I do believe they can have a role in your
+  portfolio.
+
+
 ## The corresponding ETFs
 So now we know what allocation classes are in my portfolio. We still have to
 pick specific ETFs for each class. This is where the country to live in matters
@@ -124,7 +149,7 @@ REIT               | [Amundi ETF FTSE EPRA Europe Real Estate](https://www.juste
 All these ETFs can be bought through Lynx and probably the other brokers in
 Europe too.
 
-## My investment plan
+## My plan for investing
 On February, I invested part of my savings according to this allocation.
 Currently, I am planning to rebalance and invest more of my savings at the end
 of the year. The reason I don't do this more frequently is because there are

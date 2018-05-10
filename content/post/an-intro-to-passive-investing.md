@@ -14,7 +14,7 @@ while investing myself, I encountered Belgium-specific things that I had to
 figure out. Therefore, if you're living in Belgium and are getting into passive
 investing, this series of posts could be useful to you.
 
-### Why passive investing?
+## Why passive investing?
 These days, the interest offered on your savings account is very low. For
 instance, my bank BNP Paribas Fortis offers an interest rate of 0.11% on my
 savings account. At the time of writing, the inflation rate of the Eurozone is
@@ -28,7 +28,7 @@ buying power but also don't lose any). Passive investing means investing in
 and that don't require a lot of trading (as opposed to *active* investing where
 you trade daily or multiple times per day).
 
-### Spread the risks
+## Spread the risks
 The S&P 500, i.e. the 500 biggest American companies, has had an average yearly
 return of 10% since its inception in 1928. As you can see on [this table](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html),
 it has hit returns as high as 52% (in 1954) and lows as low as -43.84% (in
@@ -43,14 +43,12 @@ This greatly lowers the risk as it spreads your bets across an entire industry
 entire world. By investing in a set of diverse high-risk stocks, you lower the
 risk of the entire portfolio. This is the basis of [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory#Diversification). 
 
-### Index funds and ETFs
+## Index funds and ETFs
 You'll find many books and resources talk about index funds, such as those
 offered by Vanguard. Unfortunately, these are not available to us in Europe but
 we have access to something similar called an ETF (Exchange-Traded Fund). There
 are differences between ETFs and index funds but the main point is that both
 follow a collection of stocks instead of an individual stock.
 
-### How do I start investing in Belgium?
-Please see my next post <a href="{{< ref
-"post/passive-investing-in-belgium.md"
->}}">Passive investing in Belgium</a>.
+## How do I start investing in Belgium?
+Please see my next post <a href="{{< ref "post/passive-investing-in-belgium.md" >}}">Passive investing in Belgium</a>.

@@ -3,21 +3,22 @@ title: "A crash course on asset allocation"
 date: 2018-03-15T19:16:30+01:00
 slug: a-crash-course-on-asset-allocation
 tags: ["Investing"]
+toc: true
 ---
 
 In previous posts, I talked about <a href="{{< ref "post/an-intro-to-passive-investing.md" >}}">passive investing</a>
-and ts <a href="{{< ref "post/passive-investing-in-belgium.md" >}}">Belgium-specific matters</a>.
+and its <a href="{{< ref "post/passive-investing-in-belgium.md" >}}">Belgium-specific matters</a>.
 I will now discuss asset allocation, which is one of the most important topics
 in investing. It'll be more of a theoretical post but I will elaborate on some
 core principles that I think are important.
 
-### Why asset allocation?
+## Why asset allocation?
 In many situations in life, it's wise to not put all your eggs in one basket.
 The same holds for investing. That is what asset allocation is about: choosing
 the right mix of securities in your portfolio in order to reduce risk while
 maintaining a high expected return.
 
-### Markowitz's insight
+## Markowitz's insight
 Markowitz is the father of Modern Portfolio Theory. One of his important
 insights was the following:
 
@@ -28,7 +29,7 @@ This may seem counter-intuitive at first so I will try to illustrate with an
 example.  We will first look at the __lower volatility__ part and then at the
 __potentially higher return__.
 
-### Lower volatility through diversification
+## Lower volatility through diversification
 First of all, lower volatility is a good thing because a highly volatile
 investment is also very risky. And as investors, we want to keep risks low. An
 investment that has a lower risk but an equal expected return is a better
@@ -77,7 +78,7 @@ the mixed portfolio is less risky. We achieved the same return for a less risky
 investment meaning that objectively, the mixed portfolio is the better
 investment. This illustrates the first part of Markowitz's insight.
 
-### Higher returns through rebalancing
+## Higher returns through rebalancing
 By diversifying our portfolio across the two stocks, we lowered its volatility
 and therefore the risk associated with our investment. However, we haven't made
 any additional returns with this strategy. Whether we invested it all in stock A
@@ -109,7 +110,7 @@ high__ and __buy when it's low__. Rebalancing works because prices that are low
 tend to go back up (eventually) and high prices will likely come down at some
 point.
 
-### The impact of correlation
+## The impact of correlation
 There's a third factor that we haven't looked at and that is correlation.
 Markowitz's insight says that the securities in our portfolio should be
 __uncorrelated__. What does that mean and why is this the case?
@@ -169,7 +170,7 @@ We only gain an additional 0.3% return when rebalancing as opposed to 33% in the
 previous situation. This shows that when creating a portfolio, its securities
 should be as negatively correlated as possible.
 
-### Recap
+## Recap
 This was a short summary of what I find the most important principles behind
 asset allocation. In a nutshell, this is what we learned:
 

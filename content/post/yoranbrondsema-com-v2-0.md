@@ -23,12 +23,12 @@ little ironic though as during the day I work on
 [Sutori](https://www.sutori.com), a full Javascript single-page application
 built on Ember.js.
 
-### Hosting
+## Hosting
 The domain name is registered via OVH.com for which I pay €7.99 per year. This
 comes with 10 MB of free hosting so for now that is my only cost. We'll see
 how long this will last me but it's also an incentive to keep things minimal.
 
-### Deployment
+## Deployment
 The free hosting plan has its limitations so I can only deploy via FTP. This
 takes me back to the days of when I made my first websites! Back in the day I
 was dragging the files from [left to right](https://wiki.filezilla-project.org/wiki/images/0/06/Navigating-remote.png)
@@ -50,7 +50,7 @@ so I perform a deployment after each Git push:
 *Update (Nov 30th 2017): The blog is now <a href="{{< ref
 "post/move-to-netlify.md" >}}">hosted on Netlify</a>.*
 
-### Conclusion
+## Conclusion
 It's a shame the old blog was deleted but it's an opportunity to start afresh.
 I'm already in love with the immediacy of a static site generator. I press
 `:wq` on Vim and with only one command, the changes are live and deployed.

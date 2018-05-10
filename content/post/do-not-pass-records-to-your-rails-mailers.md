@@ -5,7 +5,7 @@ slug: "do-not-pass-records-to-your-rails-mailers"
 tags: ["Programming", "Ruby on Rails"]
 ---
 
-### The problem
+## The problem
 [Sutori](https://www.sutori.com) has a system of inviting users to your story.
 As the author, you give the email of the invitee. In the backend, it then
 creates a record of type `Invitation` and sends the invitation email. The mailer
@@ -46,7 +46,7 @@ the fact that some background processors, e.g.
 [Sidekiq](https://github.com/mperham/sidekiq), retry a job multiple times before
 it's killed. So this exception will show up multiple times for the same email.
 
-### The solution
+## The solution
 The solution is simple: instead of passing the full record to the mailer, we
 only pass it an ID. We then abort if the record does not exist in the database.
 So the mailer interface becomes:
@@ -67,7 +67,7 @@ Thanks to [this PR](https://github.com/rails/rails/pull/8048) that was merged
 into Rails back in 2012, the mail won't get rendered if no call to `mail()` is
 made.
 
-### Bottom line
+## Bottom line
 The bottom line is that you can never assume the presence of records in
 background jobs. Since they are processed asynchronously, the state of the
 database will likely have changed by the time the job is processed.

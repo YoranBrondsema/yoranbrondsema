@@ -12,7 +12,7 @@ googleAnalytics = "UA-109409655-1"
   # Disqus comment
   disqusShortname = "yoran-brondsema"
   # Disable disqus comments by set `enableDisqus = "false"`
-  enableDisqus = true
+  enableDisqus = false
 
   # Duoshuo comment
   duoshuoShortname = "your_duoshuo_short_name"

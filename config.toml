@@ -60,8 +60,3 @@ googleAnalytics = "UA-109409655-1"
   # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
   socialIconStyle = ""
 
-
-  # Add additional social link entries underneath
-[social]
-  twitter-square = "https://twitter.com/YoranBrondsema"
-  github-square = "https://github.com/YoranBrondsema"

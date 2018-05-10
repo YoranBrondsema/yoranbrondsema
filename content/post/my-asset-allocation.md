@@ -4,6 +4,7 @@ date: 2018-05-08T21:17:07-05:00
 slug: my-asset-allocation
 tags: ["Investing"]
 toc: true
+description: "I am presenting my asset allocation and the specific ETFs that ended up in my portfolio. This is especially interesting for Belgian investors."
 ---
 
 In a previous post, I explained some of the <a href="{{< ref "post/a-crash-course-on-asset-allocation.md" >}}">basic principles of asset allocation</a>.

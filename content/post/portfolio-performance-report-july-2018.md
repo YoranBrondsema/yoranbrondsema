@@ -1,9 +1,10 @@
 ---
 title: "Portfolio performance report (July 2018)"
 date: 2018-07-23T21:39:27+02:00
+slug: portfolio-performance-report-july-2018
 tags: ["Investing"]
 toc: true
-draft: true
+description: "The first report of my passive investment portfolio, from between Decemebr 2017 and July 2018."
 ---
 
 In December of 2017, I started acquiring the first assets of my investment

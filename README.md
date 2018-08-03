@@ -1,2 +1,1 @@
-This is the code that powers my blog
-[yoranbrondsema.com](https://yoranbrondsema.com)
+This is my Hugo-powered blog [yoranbrondsema.com](https://yoranbrondsema.com).

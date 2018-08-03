@@ -1,7 +1,6 @@
 ---
 title: "Reflection on \"How not to structure your database-backed web applications: a study of performance bugs in the wild\""
 date: 2018-08-03T17:38:21+02:00
-draft: true
 toc: true
 tags: ["Ruby on Rails", "Paper"]
 ---

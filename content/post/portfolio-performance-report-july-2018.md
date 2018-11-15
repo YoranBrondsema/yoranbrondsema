@@ -1,10 +1,10 @@
 ---
-title: "Portfolio performance report (July 2018)"
+title: "Portfolio performance report Q2 2018"
 date: 2018-07-23T21:39:27+02:00
 slug: portfolio-performance-report-july-2018
 tags: ["Investing"]
 toc: true
-description: "The first report of my passive investment portfolio, from between Decemebr 2017 and July 2018."
+description: "The first report of my passive investment portfolio, from between December 2017 and July 2018."
 ---
 
 In December of 2017, I started acquiring the first assets of my investment
@@ -23,12 +23,12 @@ until I rebalance. During rebalancing I will also invest some new savings.
 
 Here are the most important numbers as of July 1st 2018:
 
-- I **spent €25,444** in acquiring my portfolio.
+- I **spent €25,466** in acquiring my portfolio.
 - This number includes the transaction costs which were €84 in total. That means
   that **0.33% of the purchase value goes to transaction costs**.
 - The net asset value is **€25,564**.  
 - Overall, this means that the return for the first 6 months has been a meager
-  **0.47%**.  Certainly not a stellar number but I'm not worried as I'm in it
+  **0.38%**. Certainly not a stellar number but I'm not worried as I'm in it
   for the long run.
 
 ### Comparison with savings account

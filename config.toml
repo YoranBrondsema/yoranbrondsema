@@ -8,26 +8,13 @@ googleAnalytics = "UA-109409655-1"
   name = "Yoran Brondsema"
   description = "CTO of Sutori"
   bio = "CTO of Sutori"
-
-  # Disqus comment
-  disqusShortname = "yoran-brondsema"
-  # Disable disqus comments by set `enableDisqus = "false"`
-  enableDisqus = false
-
-  # Duoshuo comment
-  duoshuoShortname = "your_duoshuo_short_name"
-  # Disable duoshuo comments by set `enableDuoshuo = "false"`
-  enableDuoshuo = false
-
-  enableGithubIssuesTips = false
-
-  # Enable googleAnalytics
+  enableRSS = true
   enableGoogleAnalytics = true
 
-  # Enable baiduAnalytics
+  enableDisqus = false
+  enableDuoshuo = false
+  enableGithubIssuesTips = false
   enableBaiduAnalytics = false
-  # Baidu Tongji Code
-  baiduAnalytics = 'your_baidu_tongji_code'
 
   # Add custom assets with their paths relative to the static folder
   customCSS = []
@@ -59,4 +46,3 @@ googleAnalytics = "UA-109409655-1"
   iconFont = "font-awesome"
   # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
   socialIconStyle = ""
-

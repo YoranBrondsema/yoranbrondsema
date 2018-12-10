@@ -1,0 +1,24 @@
+<p>
+  I enjoy learning and I think reading books is one of the best ways to deepen
+  oneself into a topic. Many wise people have walked the Earth over thousands
+  of years and put their thoughts into writing for the next generations to
+  discover. It would be a waste not to take in some of that knowledge. For that
+  reason, I make an effort to read every day, even if it's only a couple of
+  pages. I mostly read non-fiction but I occasionally read works of fiction
+  too.
+</p>
+
+<p>
+  The list below enumerates all the books that I've read since July 2013. That
+  is when I started tracking my reading on <a href="https://www.goodreads.com/user/show/22085294-yoran">Goodreads</a>. My favorite books are marked <span style="font-weight: bold;">in bold</span>.
+</p>
+
+<h2>List of books</h2>
+
+<ul class="books">
+  {{ range $.Site.Data.books }}
+    <li class="{{ with .favorite }}favorite{{ end }}">
+      <span class="books-title">{{ .title }}</span> – <span class="books-author">{{ .author }}</span>
+    </li>
+  {{ end }}
+</ul>

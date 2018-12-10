@@ -1,0 +1,224 @@
+- title: "When Genius Failed: The Rise and Fall of Long-Term Capital Management"
+  author: Roger Lowenstein
+- title: For Whom the Bell Tolls
+  author: Ernest Hemingway
+  favorite: true
+- title: A Guide to Financial Regulation for Fintech Entrepreneurs
+  author: Stefan Loesch
+- title: Essays of Schopenhauer
+  author: Arthur Schopenhauer
+- title: "Nudge: Improving Decisions About Health, Wealth, and Happiness"
+  author: Richard Thaler
+- title: "The Most Important Thing: Uncommon Sense for the Thoughtful Investor"
+  author: Howard Marks
+- title: "American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road"
+  author: Nick Bilton
+- title: "Economics: The User's Guide"
+  author: Ha-Joon Chang
+  favorite: true
+- title: "Kaiser: The Greatest Footballer Never To Play Football"
+  author: Rob Smyth
+  favorite: true
+- title: "Blitzed: Drugs in the Third Reich"
+  author: Normal Ohler
+- title: "Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success"
+  author: Sean Ellis
+- title: The Intelligent Investor
+  author: Benjamin Graham
+- title: La Chute
+  author: Albert Camus
+- title: To Kill a Mockingbird
+  author: Harper Lee
+  favorite: true
+- title: The Growth Handbook
+  author: Intercom
+- title: Meditations
+  author: Marcus Aurelius
+- title: "The Black Swan: The Impact of the Highly Improbable"
+  author: Nassim Nicholas Taleb
+  favorite: true
+- title: Mastery
+  author: Robert Greene
+- title: "Where Wizards Stay Up Late: The Origins of the Internet"
+  author: Katie Hafner
+- title: Le Nom de la rose
+  author: Umberto Eco
+- title: The Undercover Economist
+  author: Tim Harford
+- title: Enchiridion
+  author: Epictetus
+- title: All about Asset Allocation
+  author: Richard A. Ferri
+  favorite: true
+- title: A Random Walk Down Wall Street
+  author: Burton G. Malkiel
+- title: Sur les chemins noirs
+  author: Sylvain Tesson
+- title: Rework
+  author: Jason Fried
+- title: Ficciones
+  author: Jorge Luis Borges
+- title: Race Against The Machine
+  author: Erik Brynjolfsson
+- title: The Communist Manifesto
+  author: Karl Marx
+- title: Practical Object Oriented Design in Ruby
+  author: Sandi Metz
+  favorite: true
+- title: The Cuckoo's Calling
+  author: Robert Galbraith (pseudonym of J.K. Rowling)
+- title: "Istanbul: Memories and the City"
+  author: Orhan Pamuk
+- title: "Learn Better: Mastering the Skills for Success in Life, Business, and School, or, How to Become an Expert in Just About Anything"
+  author: Ulrich Boser
+- title: The Complete Guide to Rails Performance
+  author: Nate Berkopec
+- title: Growing Rails Applications in Practice
+  author: Henning Koch
+- title: A Random Walk Down Wall Street
+  author: Burton G. Malkiel
+- title: Rework
+  author: Jason Fried
+- title: Les Particules Élémentaires
+  author: Michel Houellebecq
+- title: "The Black Swan: The Impact of the Highly Improbable"
+  author: Nassim Nicholas Taleb
+  favorite: true
+- title: The Undercover Economist
+  author: Tim Harford
+- title: Selected Stories
+  author: Anton Checkhov
+- title: Principles
+  author: Ray Dalio
+- title: "Homo Deus: A Brief History of Tomorrow"
+  author: Yuval Noah Harari
+- title: "Tell to Win: Connect, Persuade, and Triumph with the Hidden Power of Story"
+  author: Peter Gruber
+- title: " The Snowball: Warren Buffett and the Business of Life"
+  author: Alice Schroeder
+  favorite: true
+- title:  Tristes Tropiques
+  author: Claude Lévi-Strauss
+- title: "The Power of Habit: Why We Do What We Do in Life and Business"
+  author: Charles Duhigg
+- title: "Money: Master the Game - 7 Simple Steps to Financial Freedom"
+  author: Anthony Robbins
+- title: "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin"
+  author: Erik Larson
+- title: "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character"
+  author: Richard Feynman
+  favorite: true
+- title: "Where Wizards Stay Up Late: The Origins of the Internet"
+  author: Katie Hafner
+- title: The Autobiography of Benjamin Franklin
+  author: Benjamin Franklin
+- title: "Originals: How Non-Conformists Move the World"
+  author: Adam Grant
+- title: "The Ocean of Life: The Fate of Man and the Sea"
+  author: Callum Roberts
+  favorite: true
+- title: The Cuckoo's Calling
+  author: Robert Galbraith
+- title: "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality"
+  author: Max Tegmark
+- title: The Design of Everyday Things
+  author: Donald A. Norman
+- title: "The Art of Living: The Classical Manual on Virtue, Happiness and Effectiveness"
+  author: Epictetus
+- title: Mr. Nice
+  author: Howard Marks
+  favorite: true
+- title: "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers"
+  author: Ben Horowitz
+- title: "Proof: The Science of Booze"
+  author: Adam Rogers
+- title: "The Passion of the Western Mind: Understanding the Ideas that Have Shaped Our World View"
+  author: Richard Tarnas
+- title: "Deep Work: Rules for Focused Success in a Distracted World"
+  author: Cal Newport
+  favorite: true
+- title: "The End of Average: How We Succeed in a World That Values Sameness"
+  author: Todd Rose
+  favorite: true
+- title: The Doors of Perception & Heaven and Hell
+  author: Aldous Huxley
+- title: "Coders at Work: Reflections on the Craft of Programming"
+  author: Peter Seibel
+- title: "Sapiens: A Brief History of Humankind"
+  author: Yuval Noah Harari
+  favorite: true
+- title: The Master and Margarita
+  author: Mikhail Bulgakov
+  favorite: true
+- title: "Zero to One: Notes on Startups, or How to Build the Future"
+  author: Peter Thiel
+- title: Le Château
+  author: Franz Kafka
+- title: The Casual Vacancy
+  author: J.K. Rowling
+  favorite: true
+- title: The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared
+  author: Jonas Jonasson
+- title: Inés of My Soul
+  author: Isabel Allende
+- title: The Martian
+  author: Andy Weir
+- title: Intercom on Product Management
+  author: Des Traynor
+  favorite: true
+- title: "Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness"
+  author: Frédéric Laloux
+  favorite: true
+- title: "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win"
+  author: Gene Kim
+- title: How to Win Friends and Influence People
+  author: Dale Carnegie
+  favorite: true
+- title: "The Joy of Mixology: The Consummate Guide to the Bartender's Craft"
+  author: Gary Regan
+  favorite: true
+- title: "Hegarty on Creativity: There Are No Rules"
+  author: John Hegarty
+- title: "The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness"
+  author: Jeff Olson
+- title: "Into Thin Air: A Personal Account of the Mount Everest Disaster"
+  author: Jon Krakauer
+- title: "JavaScript: The Good Parts"
+  author: Douglas Crockford
+- title: "The Pragmatic Programmer: From Journeyman to Master"
+  author: Andy Hunt
+- title: "Wabi-Sabi: For Artists, Designers, Poets & Philosophers"
+  author: Leonard Koren
+- title: "The Wisdom of Insecurity: A Message for an Age of Anxiety"
+  author: Alan Watts
+- title: The Giver
+  author: Lois Lowry
+- title: Brave New World
+  author: Aldous Huxley
+  favorite: true
+- title: L'Écume des jours
+  author: Boris Vian
+- title: "The Way of the Superior Man: A Spiritual Guide to Mastering the Challenges of Women, Work, and Sexual Desire"
+  author: David Deida
+- title: L'existentialisme est un humanisme
+  author: Jean-Paul Sartre
+- title: Sunset Park
+  author: Paul Auster
+- title: Man's Search for Meaning
+  author: Viktor Frankl
+- title: "Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics"
+  author: Henry Hazlitt
+- title: "Starting Strength: Basic Barbell Training"
+  author: Mark Rippetoe
+  favorite: true
+- title: The Alchemist
+  author: Paulo Coehlo
+  favorite: true
+- title: The God Delusion
+  author: Richard Dawkins
+  favorite: true
+- title: Siddhartha
+  author: Hermann Hesse
+  favorite: true
+- title: No More Mr. Nice Guy
+  author: Robert Glover

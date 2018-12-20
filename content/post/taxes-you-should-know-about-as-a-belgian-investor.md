@@ -1,7 +1,8 @@
 ---
 title: "Taxes you should know about as a Belgian investor"
 date: 2018-12-19T21:10:11+01:00
-draft: true
+slug: taxes-you-should-know-about-as-a-belgian-investor
+tags: ["Investing"]
 ---
 
 No one likes them but everyone has to pay them: taxes. As investors, we also
@@ -21,7 +22,7 @@ if you want dig a bit deeper.
 
 ## Word of caution
 The information presented here is up-to-date at the time of writing (December
-20th 2018). However, every new government likes to make some changes to the tax
+19th 2018). However, every new government likes to make some changes to the tax
 system so it might be outdated by the time you're reading this.
 
 ## Tax on transactions ("beurstaks" or "taxe boursière")

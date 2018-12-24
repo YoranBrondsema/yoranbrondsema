@@ -20,7 +20,7 @@ Type               | ETF                                                        
 -------------------|-----------------------------------------------------------------------------------------------------|------------|----
 Government bonds   | [Xtrackers Global Sovereign](https://www.justetf.com/en/etf-profile.html?isin=%20LU0908508731)      | 19%        | 0.20%
 Developed          | [iShares Core MSCI World](https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983)            | 48%        | 0.20%
-Small cap          | [iShares MSCI World Small Cap](https://www.justetf.com/en/etf-profile.html?isin=IE00BF4RFH31)       | 13%        | 0.35%
+Small cap          | [iShares MSCI World Small Cap](https://www.justetf.com/en/etf-profile.html?isin=IE00BF4RFH31)       | 14%        | 0.35%
 Emerging markets   | [Xtrackers MSCI Emerging Markets](https://www.justetf.com/en/etf-profile.html?isin=IE00BTJRMP35)    | 10%        | 0.20%
 REIT               | [Amundi ETF FTSE EPRA NAREIT Global](https://www.justetf.com/en/etf-profile.html?isin=LU1437018838) | 9%         | 0.24%
 

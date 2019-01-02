@@ -27,11 +27,11 @@ index funds:
 
 | ETF                                                                                                 | Allocation | Index
 |-----------------------------------------------------------------------------------------------------|------------|----
-| [iShares Core MSCI World](https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983)            | 48%        | MSCI World
+| [iShares Core MSCI World](https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983)            | 49%        | MSCI World
 | [iShares MSCI World Small Cap](https://www.justetf.com/en/etf-profile.html?isin=IE00BF4RFH31)       | 14%        | MSCI World Small Cap
 | [Xtrackers MSCI Emerging Markets](https://www.justetf.com/en/etf-profile.html?isin=IE00BTJRMP35)    | 10%        | MSCI Emerging Markets
 | [Amundi ETF FTSE EPRA NAREIT Global](https://www.justetf.com/en/etf-profile.html?isin=LU1437018838) | 9%         | FTSE EPRA/NAREIT
-| [Xtrackers Global Sovereign](https://www.justetf.com/en/etf-profile.html?isin=%20LU0908508731)      | 19%        | FTSE World Government Bond Index
+| [Xtrackers Global Sovereign](https://www.justetf.com/en/etf-profile.html?isin=%20LU0908508731)      | 18%        | FTSE World Government Bond Index
 
 ## Getting the historical data
 The first step is to get the historical values of the funds that make up the

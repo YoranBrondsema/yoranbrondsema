@@ -188,9 +188,13 @@ has given an average return of **around 6%** during a period of 23 years. It's
 fair to assume that the performance for the following years will be similar.
 
 ## Topics for future articles
-Following this research, there are two topics that I want to explore further in
-a future post:
+Following this research, there are a couple of topics that I want to explore
+further in a future post:
 
+* **impact of dividends on total return**. We did not include dividend payouts
+  in this simulation. However, I expect that reinvested dividends will have a
+  non-negligible positive effect on the total return. Calculating the impact is
+  a topic for a future post.
 * **impact of rebalancing strategies**. We already saw here that rebalancing has
   a big impact on the total return of a portfolio. Are some strategies better
   than others? Is it better to rebalance monthly, quarterly, yearly or even

@@ -27,7 +27,7 @@ googleAnalytics = "UA-109409655-1"
   home = ""
   about = ""
   archive = ""
-  subscribe = ""
+  subscribe = "RSS"
   tags = ""
   # Pagination links
   olderPosts = ""

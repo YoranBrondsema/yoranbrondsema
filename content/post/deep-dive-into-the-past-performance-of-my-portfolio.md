@@ -4,6 +4,7 @@ date: 2018-12-27T09:41:20+01:00
 slug: deep-dive-into-the-past-performance-of-my-portfolio
 tags: ["Investing"]
 toc: true
+description: "Simulation of my passive investing portfolio from 1993 to 2015."
 ---
 
 When I set up my portfolio about a year ago, I based its composition on the

@@ -1,5 +1,5 @@
 My name is Yoran Brondsema and I live in Brussels, Belgium. By day I'm the CTO
-of [Sutori](https://www.sutori.com).
+of [Sutori](https://www.sutori.com) and [Enzo](https://enzo.fund).
 
 ## Blogging
 I write about things that interest me and that I think might be useful for

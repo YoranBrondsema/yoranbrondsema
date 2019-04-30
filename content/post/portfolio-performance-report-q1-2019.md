@@ -7,8 +7,6 @@ toc: true
 description: "Q1 2019 results of my passive investing portfolio."
 ---
 
-
-
 ## Composition
 The funds in my portfolio haven't changed since [last quarter]({{< ref "post/portfolio-performance-report-q4-2018.md" >}}). Also, there's no need to rebalance yet.
 

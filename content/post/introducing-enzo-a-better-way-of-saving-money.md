@@ -30,10 +30,11 @@ or Betterment aren't available.
 
 ![Landing page for investing at a bank](/images/landing-page-for-investing-at-a-bank.png)
 
-The image above is a screenshot taken from the website of an actual bank.
-Imagine the person with no financial knowledge how comes onto this page: he's
-bombarded with technical terms and too many options. No wonder he runs away and
-thinks _"Nevermind, I'll just leave my money in my savings account."_.
+The image above is a screenshot taken from the website of an actual bank. The
+average person who has no financial knowledge and who comes onto this page, is
+presented with too many options and technical terms. It's understandable if he
+then clicks away and thinks _"Nevermind, I'll just leave my money in my savings
+account."_.
 
 ## Our generation is facing a scary financial future
 At the same time, I became aware that our generation, the "millennials", is

@@ -20,11 +20,11 @@ the portfolio below.
 
 Type of investment | Allocation
 -------------------|-----------
-Government bonds   | 15%
-MSCI World         | 50%
-Small cap          | 15%
+Government bonds   | 18%
+MSCI World         | 49%
+Small cap          | 14%
 Emerging markets   | 10%
-REIT               | 10%
+REIT               | 9%
 
 ### Government bonds
 Bonds are a loan that you make to an institution such a government or a
@@ -73,7 +73,7 @@ contains more information).
 
 I like to see it as an investment in the world economy because it represents the
 largest companies from the biggest economies in the world. That's why it takes
-the biggest portion of my portoflio at 50%.
+the biggest portion of my portfolio at 50%.
 
 ### Small cap
 A small cap fund is a fund that invests in smaller companies but that are still
@@ -139,13 +139,13 @@ expense ratio was quite a long process. It involved lots of comparisons on
 [justETF](https://www.justetf.com/en). But in the end I managed to find a mix
 that I'm satifisfied with:
 
-Type               | ETF                                                                                                                              | TER
--------------------|----------------------------------------------------------------------------------------------------------------------------------|-----
-Government bonds   | [Lyxor EuroMTS Highest Rated Macro-Weighted Government Bond](https://www.justetf.com/en/etf-profile.html?isin=LU1287023342)      | 0.17%
-MSCI World         | [iShares Core MSCI World](https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983)                                         | 0.20%
-Small cap          | [BNP Paribas Easy MSCI Europe Small Caps ex Controversial Weapons](https://www.justetf.com/en/etf-profile.html?isin=LU1291101555)| 0.25%
-Emerging markets   | [Xtrackers MSCI Emerging Markets](https://www.justetf.com/en/etf-profile.html?isin=IE00BTJRMP35)                                 | 0.20%
-REIT               | [Amundi ETF FTSE EPRA Europe Real Estate](https://www.justetf.com/en/etf-profile.html?isin=LU1681039480)                         | 0.35%
+Type               | ETF                                                                                                 | TER
+-------------------|-----------------------------------------------------------------------------------------------------|-----
+Government bonds   | [Xtrackers Global Sovereign](https://www.justetf.com/en/etf-profile.html?isin=%20LU0908508731)      | 0.20%
+MSCI World         | [iShares Core MSCI World](https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983)            | 0.20%
+Small cap          | [iShares MSCI World Small Cap](https://www.justetf.com/en/etf-profile.html?isin=IE00BF4RFH31)       | 0.35%
+Emerging markets   | [Xtrackers MSCI Emerging Markets](https://www.justetf.com/en/etf-profile.html?isin=IE00BTJRMP35)    | 0.20%
+REIT               | [Amundi ETF FTSE EPRA NAREIT Global](https://www.justetf.com/en/etf-profile.html?isin=LU1437018838) | 0.24%
 
 All these ETFs can be bought through Lynx and probably the other brokers in
 Europe too.

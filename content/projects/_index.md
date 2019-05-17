@@ -7,7 +7,7 @@ time working on. It's also the biggest piece of software that I've built. It's
 currently used by over a million teachers and students across the
 world, which is something we're all proud of!
 
-## <a href="https://enzo.fund">Enzo</a>
+## <a href="https://enzo.fund/?utm_source=yoranbrondsema-blog">Enzo</a>
 Our latest project that I introduced [in a post](https://www.yoranbrondsema.com/post/introducing-enzo-a-better-way-of-saving-money/). Investing is hard yet I believe it's crucial for our generation to be well-prepared for the future. Enzo aims to make passive investing easy and accessible to everyone.
 
 ## <a href="https://www.whatifilosemy2fa.com">What If I Lose My 2FA</a>

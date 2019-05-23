@@ -2,6 +2,7 @@
 title: "Taxes you should know about as a Belgian investor"
 date: 2018-12-19T21:10:11+01:00
 slug: taxes-you-should-know-about-as-a-belgian-investor
+toc: true
 tags: ["Investing"]
 ---
 
@@ -52,24 +53,22 @@ In <a href="{{< ref "post/portfolio-performance-report-q3-2018.md" >}}">my portf
 you will only see accumulating funds. I also wrote about what be careful about when selecting a fund in my post about
 <a href="{{< ref "post/passive-investing-in-belgium.md" >}}">passive investing in Belgium</a>.
 
-## Tax on capital gains for bonds
+## Tax on capital gains for bonds (also called the Reynders-tax)
 For funds that consist of at least 10% bonds, there is a 30% tax on the profits
-made when selling it. For example, if you bought a bond at €100 and end up
-selling it later for €130, your net profit will only be €21. The other €9 will
-go to the Belgian state through this tax.
+made when selling. For example, if you bought a bond at €100 and end up selling
+it later for €130, your net profit will only be €21. The other €9 will go to the
+Belgian state through this tax.
 
-Regarding this tax, the best strategy is to limit the number of funds in your
-portfolio that contain bonds. In my portfolio,
-[XG7S](https://www.justetf.com/en/etf-profile.html?isin=%20LU0908508731) is the
-only fund that has bonds. Actually, it consists of only bonds as it tracks the
-FTSE World Government Bond Index. This is better than having multiple funds that
-consist of a mix of bonds and stocks as you'll end up paying this tax on all
-those funds.
+For funds that consist solely of bonds, the 30% tax rate will be applied to the
+full profit. For mixed funds, for instance that contain both bonds and stocks,
+the tax will only be applied to the bonds portion of the fund. Concretely, if
+you own a fund that consists of 50% bonds and 50% stocks, the effective tax rate
+on the profits will be 15% instead of the full 30%.
 
-Another consideration is that this tax gives more incentive to invest in stocks
-rather than bonds. This is contradicting with the common strategy of investing
-more in bonds as you get older, because of their reduced volatility. Something
-to ponder about!
+A consideration is that this tax gives more incentive to invest in stocks rather
+than bonds. This is contradicting with the common strategy of investing more
+in bonds as you get older, because of their reduced volatility. Something to
+ponder about!
 
 ## Tax on trading accounts ("taks op effectenrekeningen" or "taxes sur les comptes-titres")
 Belgium will withhold a yearly 0.15% tax on any trading account (for instance on

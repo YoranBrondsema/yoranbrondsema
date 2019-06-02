@@ -1,3 +1,29 @@
+- title: Het grote pensioenbedrog
+  author: Jef Vuchelen & Mark Scholliers
+- title: "The Comic Book Story of Beer: The World's Favorite Beverage from 7000 BC to Today's Craft Brewing Revolution"
+  author: Jonathan Hennessey
+- title: "Bad Blood: Secrets and Lies in a Silicon Valley Startup"
+  author: John Carreyrou
+- title: HBR's 10 Must Reads on Strategy
+  author: Michael E. Porter
+- title: "Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content"
+  author: Ann Handley
+- title: "Influence: The Psychology of Persuasion"
+  author: Robert B. Cialdini
+  favorite: true
+- title: Professor Frisby's Mostly Adequate Guide to Functional Programming
+  author: Brian Lonsdorf
+- title: "The Ages of the Investor: A Critical Look at Life-cycle Investing"
+  author: William J. Bernstein
+- title: "How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life"
+  author: Scott Adams
+  favorite: true
+- title: "Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body"
+  author: Daniel Goleman
+- title: Domain-Driven Design Quickly
+  author: Floyd Marinescu
+- title: "Sit Like a Buddha: A Pocket Guide to Meditation"
+  author: Lodro Rinzler
 - title: L'Étranger
   author: Albert Camus
   favorite: true
@@ -84,9 +110,6 @@
   author: Jason Fried
 - title: Les Particules Élémentaires
   author: Michel Houellebecq
-- title: "The Black Swan: The Impact of the Highly Improbable"
-  author: Nassim Nicholas Taleb
-  favorite: true
 - title: The Undercover Economist
   author: Tim Harford
 - title: Selected Stories

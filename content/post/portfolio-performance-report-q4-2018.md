@@ -13,7 +13,7 @@ The funds in my portfolio haven't changed since [last quarter]({{< ref "post/por
 Type               | ETF                                                                                                 | Ticker | Allocation
 -------------------|-----------------------------------------------------------------------------------------------------|--------|----
 Government bonds   | [Xtrackers Global Sovereign](https://www.justetf.com/en/etf-profile.html?isin=%20LU0908508731)      | XG7S   | 18%
-Developed          | [iShares Core MSCI World](https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983)            | IWDA   | 49%
+Developed markets  | [iShares Core MSCI World](https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983)            | IWDA   | 49%
 Small cap          | [iShares MSCI World Small Cap](https://www.justetf.com/en/etf-profile.html?isin=IE00BF4RFH31)       | IUSN   | 14%
 Emerging markets   | [Xtrackers MSCI Emerging Markets](https://www.justetf.com/en/etf-profile.html?isin=IE00BTJRMP35)    | XMME   | 10%
 REIT               | [Amundi ETF FTSE EPRA NAREIT Global](https://www.justetf.com/en/etf-profile.html?isin=LU1437018838) | EPRA   | 9%

@@ -16,3 +16,6 @@ accounts after I had to reinstall my phone. It gives the exact information that
 you need to keep somewhere safe in case you lose your 2FA device. This way you
 don't have to waste time visiting your bank and having a notary sign papers,
 like I did.
+
+## <a href="https://soundcloud.com/yorbro">Music</a>
+In the past, I dabbled around with Ableton and a MIDI controller to make music.

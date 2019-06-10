@@ -35,9 +35,9 @@ the risk of a portfolio. It's easy to calculate the average return, but how we
 can translate risk, which is an abstract notion, into a single number?
 
 The Sharpe ratio finds its origins in the capital asset pricing model (CAPM).
-This model posits that the risk of an investment equals its volatility.
-Investments that have big fluctuations, such as cryptocurrencies, are considered
-risky.
+This model posits that the risk of an investment equals its volatility and
+considers investments that have big fluctuations, such as cryptocurrencies, to
+be risky.
 
 From statistics, we know that we can use the standard deviation to compute the
 volatility of an investment. We now come to the formula for the Sharpe ratio:
@@ -52,10 +52,10 @@ $R$ is the return of our portfolio and $R_f$ is the risk-free rate. A risk-free
 investment is one where it's impossible to suffer losses. For example, a savings
 account is a risk-free investment, because the interest rate that the bank pays
 out will never be negative. However, your bank can still go bankrupt so it's not
-as risk-free as we think. We typically use the returns on short-dated government
-bonds in the calculation of the Sharpe ratio. In particular, we use the
-Effective Federal Funds Rate set by the US government, which is the interest rate
-used by banks when they lend each other money.
+as risk-free as we think. Therefore, we use the returns on short-dated
+government bonds in the calculation of the Sharpe ratio. In particular, we use
+the Effective Federal Funds Rate set by the US government, which is the interest
+rate used by banks when they lend each other money.
 
 Knowing this, we can interpret $R - R_f$ as the return of our portfolio adjusted
 for the risk-free rate. We call this the **excess return**: it's the return that
@@ -94,7 +94,7 @@ REIT               | [Amundi ETF FTSE EPRA NAREIT Global](https://www.justetf.co
 During my research, I looked for existing software that I could use to run this
 analysis, but I couldn't find one that suited my needs. So I used my software
 engineering skills to build my own. All the numbers and charts that follow come
-directly from the [Portfolio Simulator](https://simulator.yoranbrondsema.com/sharpe-ratio/yoran).
+from [this simulator](https://simulator.yoranbrondsema.com/sharpe-ratio/yoran).
 
 You can find its source code
 [on GitHub](https://github.com/YoranBrondsema/portfolio-simulator),
@@ -108,7 +108,7 @@ compare it against benchmarks.
 The standard benchmark to use is the S&P 500 index. However, I also wanted to
 compare the portfolio to the MSCI World index, because almost half of the
 portfolio consists of this index. The comparison will teach us whether the
-presence of the other funds in the portfolio are beneficial for its performance.
+presence of the other funds in the portfolio benefits its performance.
 
 The results are in the table below.
 
@@ -120,7 +120,7 @@ The results are in the table below.
 
 **The Sharpe ratio of my portfolio beats that of both the S&P 500 and the MSCI
 World index, which shows that our diversification works!** The volatility is
-higher than that of the S&P 500, but is compensated by the higher return.
+higher than that of the S&P 500, but the greater return compensates for it.
 Furthermore, our diversified portfolio performs better than the MSCI World index
 on its own, both in terms of returns and volatility.
 
@@ -131,7 +131,7 @@ from year to year!
 
 {{< figure src="/images/sharpe-ratio-evolution.png" caption="Evolution of the Sharpe ratio year to year." >}}
 
-It seems to follow the trend of the markets as a whole, which makes sense, since
+It seems to follow the trend of the markets as a whole, which makes sense since
 the Sharpe ratio is based on the annual returns after all. For instance, during
 the financial crisis of 2007-2008, the Sharpe ratio was negative because the
 markets were down by almost 50%.
@@ -160,7 +160,7 @@ Simons. Unlike Berkshire Hathaway, hedge funds are not required to publicly
 disclose their returns, making it so I couldn't run my own analysis. That said,
 I found a [Quora answer](https://www.quora.com/What-kind-of-Sharpe-ratio-does-Renaissance-Technologies-have/answer/Vladimir-Novakovski)
 that sheds some light on the Sharpe ratio they are achieving. It's very
-impressive to say the least:
+impressive, to say the least:
 
 > The Medallion fund, around since 1988, had a Sharpe ratio around 2 for a
 > while, then after the mid-90s, they made a number of improvements (and rolled
@@ -195,7 +195,7 @@ ratio may not be entirely accurate.
 #### Returns of real investments are not normally distributed
 In order to use the standard deviation to calculate the volatility of an
 investment, the returns of the investment must be distributed according to the
-normal distribution. However, in reality this is not the case. Instead, the
+normal distribution. However, in reality, this is not the case. Instead, the
 returns of investments in financial markets have fatter tails, meaning that
 outliers happen more frequently than the normal distribution would dictate.
 

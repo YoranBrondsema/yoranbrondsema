@@ -1,6 +1,6 @@
 ---
 title: "Sharpe ratio analysis of my portfolio"
-date: 2019-06-06T10:37:54-05:00
+date: 2019-06-10T10:37:54-05:00
 slug: sharpe-ratio-analysis-of-my-portfolio
 tags: ["Investing"]
 toc: true

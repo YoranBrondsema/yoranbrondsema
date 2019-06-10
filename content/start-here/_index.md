@@ -23,6 +23,7 @@ find some useful information in the following posts.
 * [My asset allocation]({{< ref "post/my-asset-allocation.md" >}})
 * [Taxes you should know about as a Belgian investor]({{< ref "post/taxes-you-should-know-about-as-a-belgian-investor.md" >}})
 * [Deep dive into the past performance of my portfolio]({{< ref "post/deep-dive-into-the-past-performance-of-my-portfolio.md" >}})
+* [Analyzing the Sharpe ratio of my portfolio]({{< ref "post/20190610-sharpe-ratio-analysis-of-my-portfolio.md" >}})
 
 ## Performance reports
 I post the performance reports of [my portfolio](/investment-portfolio) on a

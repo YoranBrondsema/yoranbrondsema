@@ -1,5 +1,5 @@
 ---
-title: "Analyzing the Sharpe ratio of my portfolio"
+title: "Does diversification work? Analyzing the Sharpe ratio of my portfolio"
 date: 2019-06-10T10:37:54-05:00
 slug: sharpe-ratio-analysis-of-my-portfolio
 tags: ["Investing"]

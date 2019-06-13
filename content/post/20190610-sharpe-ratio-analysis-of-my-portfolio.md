@@ -35,7 +35,7 @@ the risk of a portfolio. It's easy to calculate the average return, but how we
 can translate risk, which is an abstract notion, into a single number?
 
 The Sharpe ratio finds its origins in the capital asset pricing model (CAPM).
-This model posits that the risk of an investment equals its volatility and
+This model posits that **the risk of an investment equals its volatility** and
 considers investments that have big fluctuations, such as cryptocurrencies, to
 be risky.
 
@@ -203,10 +203,14 @@ This means that the standard deviation is not an entirely accurate way to
 calculate the volatility of our portfolio and that the "real" Sharpe ratio,
 calculated for its actual distribution, would be different.
 
-#### Upside volatility is not necessarily bad
+#### The Sharpe ratio punishes upside volatility
 The Sharpe ratio treats all volatility the same. However, you can argue that
 upside volatility is not as bad as downside volatility. In fact, upside
 volatility is required to achieve high returns.
+
+For instance, if your returns over a 4-year period are 0% 20% 0% 20%, the Sharpe
+ratio will be very low because of the high volatility. Yet you've never had a
+drawdown and your risk is managed correctly.
 
 #### Negative Sharpe ratios have no meaning
 We saw in the chart above that Sharpe ratios become negative during recessions.

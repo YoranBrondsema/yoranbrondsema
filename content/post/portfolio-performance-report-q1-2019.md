@@ -26,7 +26,7 @@ growth has been pretty spectacular: the total return went from a €1,821 loss o
 January 1st to a **€1,812 profit today**.
 
 ## Performance per asset
-{{< figure src="/images/2019-q1-performance-per-asset.svg" caption="Performance per asset as of April 1st 2019" >}}
+{{< figure src="/images/2019-q1-performance-per-asset.svg" caption="Performance per asset as of April 1st 2019." >}}
 
 In the chart above, you can see that pretty much every fund in the portfolio
 recovered over the last 3 months.

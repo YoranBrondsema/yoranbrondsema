@@ -2,7 +2,8 @@
 title: "Choosing the right rebalancing strategy for your portfolio"
 date: 2019-07-18T17:40:36+02:00
 toc: true
-slug: 'choosing-the-right-rebalancing-strategy'
+slug: 'choosing-the-right-rebalancing-strategy-for-your-portfolio'
+description: "What is the best rebalancing strategy to adopt for maximal returns? Quarterly? Yearly? I ran experiments using historical data going back to 1987 for portfolios that are common for EU investors to find out the answer."
 ---
 
 ## What's rebalancing?

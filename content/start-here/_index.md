@@ -24,12 +24,14 @@ find some useful information in the following posts.
 * [Taxes you should know about as a Belgian investor]({{< ref "post/taxes-you-should-know-about-as-a-belgian-investor.md" >}})
 * [Deep dive into the past performance of my portfolio]({{< ref "post/deep-dive-into-the-past-performance-of-my-portfolio.md" >}})
 * [Analyzing the Sharpe ratio of my portfolio]({{< ref "post/20190610-sharpe-ratio-analysis-of-my-portfolio.md" >}})
+* [Choosing the right rebalancing strategy for your portfolio]({{< ref "post/20190719-choosing-the-right-rebalancing-strategy.md" >}})
 
 ## Performance reports
 I post the performance reports of [my portfolio](/investment-portfolio) on a
 quarterly basis. The regularity gives me the discipline to keep track and get
 insights.
 
+* [2019 Q2]({{< ref "post/20190704-portfolio-performance-report-q2-2019.md" >}})
 * [2019 Q1]({{< ref "post/portfolio-performance-report-q1-2019.md" >}})
 * [2018 Q4]({{< ref "post/portfolio-performance-report-q4-2018.md" >}})
 * [2018 Q3]({{< ref "post/portfolio-performance-report-q3-2018.md" >}})

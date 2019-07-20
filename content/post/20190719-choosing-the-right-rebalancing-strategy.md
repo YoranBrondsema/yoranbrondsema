@@ -70,8 +70,7 @@ Furthermore, we are making the following assumptions for our simulation.
   simulation. This won't affect the comparison between the
   rebalancing strategies though.
 
-The simulations are run using [my custom simulator software](https://simulator.yoranbrondsema.com/). The source code as well as
-the historical data is available on [GitHub](https://github.com/YoranBrondsema/portfolio-simulator).
+The simulations are run using [my custom simulator software](https://simulator.yoranbrondsema.com/).
 
 ### Simulation 1: no transaction fees
 First, we are going to simulate a portfolio that is common and works well for the

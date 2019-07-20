@@ -99,11 +99,11 @@ Like WGBI, it tracks investment-grade government bonds. A key difference though
 is that WGBI is global whereas our proxy, the JP Morgan Government Bond index,
 is only composed of US bonds.
 
-To quantify the resemblance of the two indexes, I [calculated](https://github.com/YoranBrondsema/portfolio-simulator/blob/3cf88c09bba432e9f2cd46c5cf30d03b9668441e/documents/Correlation%20between%20FTSE%20WGBI%20and%20JP%20Morgan%20GBI.ods)
-that their correlation between 2013 and 2018 is 0.90. A higher correlation is
-preferred because it indicates that the two indexes are more alike. 0.90 is not
-ideal but it's not terrible either. It will have to do as it's the only other
-government bond index that I could find with sufficient data.
+To quantify the resemblance of the two indexes, I calculated that their
+correlation between 2013 and 2018 is 0.90. A higher correlation is preferred
+because it indicates that the two indexes are more alike. 0.90 is not ideal but
+it's not terrible either. It will have to do as it's the only other government
+bond index that I could find with sufficient data.
 
 ## Preparing the data
 Now that we have gathered the raw data, we need to prepare it for analysis.
@@ -117,8 +117,6 @@ Secondly, we need to convert all five datasets into the same format. I chose to
 convert them to CSV files as it's a text format that can easily be processed by
 a program written in any programming language.
 
-The resulting datasets are available on [a GitHub repository](https://github.com/YoranBrondsema/portfolio-simulator/tree/3cf88c09bba432e9f2cd46c5cf30d03b9668441e/public/data).
-
 ## The simulation
 We are now ready to start the simulation: **if we had invested €1,000 in February
 1993, how much would we have had in December 2015?**
@@ -130,9 +128,7 @@ called [Yoran's Portfolio Simulator](https://simulator.yoranbrondsema.com)
 that runs the simulation for me. As a professional web developer, I found this
 method to be easier, and it provided a means to share the information with
 others in a more aesthetic way (although I recognize there is room for
-improvement when it comes to its visual design). The entire source code of the
-application is available on the same [GitHub repository](https://github.com/YoranBrondsema/portfolio-simulator) as the CSV
-files with the historical data.
+improvement when it comes to its visual design).
 
 ### Comparing simulations with and without rebalancing
 As I explain in [A crash course on asset allocation]({{< ref "post/a-crash-course-on-asset-allocation.md#higher-returns-through-rebalancing" >}}),

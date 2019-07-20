@@ -96,10 +96,6 @@ analysis, but I couldn't find one that suited my needs. So I used my software
 engineering skills to build my own. All the numbers and charts that follow come
 from [this simulator](https://simulator.yoranbrondsema.com/sharpe-ratio/yoran).
 
-You can find its source code
-[on GitHub](https://github.com/YoranBrondsema/portfolio-simulator),
-together with some explanation on how to run it on your computer.
-
 ### The results
 **The Sharpe ratio of the portfolio is 0.36** for the period from 2000 to 2015.
 What does this mean? This doesn't tell us very much on its own, so we'll need to

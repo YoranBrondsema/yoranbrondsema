@@ -1,21 +1,27 @@
 Here is a selection of the projects that I am working on or have worked on in
 the past.
 
-## <a href="https://www.sutori.com">Sutori</a>
+## [Sutori](https://www.sutori.com)
 Being the CTO of Sutori is my day-job and it's the app I spend by far the most
 time working on. It's also the biggest piece of software that I've built. It's
 currently used by over a million teachers and students across the
 world, which is something we're all proud of!
 
-## <a href="https://enzo.fund/?utm_source=yoranbrondsema-blog">Enzo</a>
+## [Enzo](https://enzo.fund/?utm_source=yoranbrondsema-blog)
 Our latest project that I introduced [in a post](https://www.yoranbrondsema.com/post/introducing-enzo-a-better-way-of-saving-money/). Investing is hard yet I believe it's crucial for our generation to be well-prepared for the future. Enzo aims to make passive investing easy and accessible to everyone.
 
-## <a href="https://www.whatifilosemy2fa.com">What If I Lose My 2FA</a>
+## [Backtest](https://backtest.enzo.fund)
+The back-testing tool for European index investors. Many of the articles on
+this blog are analyses of my portfolio. For that, I built my own custom
+back-testing software. Over time, it evolved into something pretty valuable so
+I released it for others to use.
+
+## [What If I Lose My 2FA](https://www.whatifilosemy2fa.com)
 This project was born out of frustration with losing access to my 2FA-secured
 accounts after I had to reinstall my phone. It gives the exact information that
 you need to keep somewhere safe in case you lose your 2FA device. This way you
 don't have to waste time visiting your bank and having a notary sign papers,
 like I did.
 
-## <a href="https://soundcloud.com/yorbro">Music</a>
+## [Music](https://soundcloud.com/yorbro)
 In the past, I dabbled around with Ableton and a MIDI controller to make music.

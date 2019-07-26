@@ -36,3 +36,7 @@ insights.
 * [2018 Q4]({{< ref "post/portfolio-performance-report-q4-2018.md" >}})
 * [2018 Q3]({{< ref "post/portfolio-performance-report-q3-2018.md" >}})
 * [2018 Q2]({{< ref "post/portfolio-performance-report-july-2018.md" >}})
+
+## Back-test your portfolio
+You can use [Backtest](https://backtest.enzo.fund), the back-testing tool that
+I developed, to discover the historical performance of your portfolio. [Here is mine](https://backtest.enzo.fund/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA).

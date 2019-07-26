@@ -70,7 +70,8 @@ Furthermore, we are making the following assumptions for our simulation.
   simulation. This won't affect the comparison between the
   rebalancing strategies though.
 
-The simulations are run using [my custom simulator software](https://simulator.yoranbrondsema.com/).
+The simulations are run using [Backtest](https://backtest.enzo.fund), the
+custom back-testing tool that I wrote.
 
 ### Simulation 1: no transaction fees
 First, we are going to simulate a portfolio that is common and works well for the

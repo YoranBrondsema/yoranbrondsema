@@ -1,3 +1,15 @@
+- title: What I Learned Losing a Million Dollars
+  author: Jim Paul
+- title: Le Moine et le Philosophe
+  author: Matthieu Ricard
+- title: "Antifragile: Things That Gain from Disorder"
+  author: Nicholas Nassim Taleb
+  favorite: true
+- title: "The Mastermind: Drugs. Empire. Murder. Betrayal."
+  author: Evan Ratliff
+  favorite: true
+- title: L'Odyssée
+  author: Homère
 - title: Het grote pensioenbedrog
   author: Jef Vuchelen & Mark Scholliers
 - title: "The Comic Book Story of Beer: The World's Favorite Beverage from 7000 BC to Today's Craft Brewing Revolution"
@@ -104,10 +116,6 @@
   author: Nate Berkopec
 - title: Growing Rails Applications in Practice
   author: Henning Koch
-- title: A Random Walk Down Wall Street
-  author: Burton G. Malkiel
-- title: Rework
-  author: Jason Fried
 - title: Les Particules Élémentaires
   author: Michel Houellebecq
 - title: The Undercover Economist

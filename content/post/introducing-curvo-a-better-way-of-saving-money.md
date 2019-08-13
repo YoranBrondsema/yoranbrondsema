@@ -1,14 +1,14 @@
 ---
-title: "Introducing Enzo: a better way of saving money"
+title: "Introducing Curvo: a better way of saving money"
 slug: introducing-enzo-a-better-way-of-saving-money
 date: 2019-05-11T16:32:29-05:00
 tags: ["Investing"]
-description: "We are starting Enzo, whose mission is to improve the financial well-being of our generation."
+description: "We are starting Curvo, whose mission is to improve the financial well-being of our generation."
 ---
 
 Together with [Thomas](https://twitter.com/tomketch), my co-founder from
-[Sutori](https://www.sutori.com), we started a new side-project called Enzo.
-With Enzo, we want to drastically improve the financial well-being of our
+[Sutori](https://www.sutori.com), we started a new side-project called Curvo.
+With Curvo, we want to drastically improve the financial well-being of our
 generation by passively investing your savings instead of keeping it all in a
 savings account. It grew from the realization that investing is difficult,
 time-consuming, yet is crucial for our generation to be prepared for the future.
@@ -45,14 +45,14 @@ the age of 67 by 2060 whereas today, only 25% of the population is in that age
 group. I think that our pension systems will need to adapt in such a way that
 individual contributions will become more and more important.
 
-## So we started Enzo
+## So we started Curvo
 For these reasons, me and Thomas started
-[Enzo](https://enzo.fund/?utm_source=yoranbrondsema-blog&utm_medium=blog-post&utm_campaign=introducing-enzo): our goal is
+[Curvo](https://curvo.eu/?utm_source=yoranbrondsema-blog&utm_medium=blog-post&utm_campaign=introducing-curvo): our goal is
 to **improve the financial well-being of our generation** by giving easy access
 to passive investing. No need to read dozens of books on how to define your
 asset allocation like we did. No need to study the [Bogleheads wiki](https://www.bogleheads.org/wiki/Investing_from_Belgium) to learn about
 taxes in your country. There's even no need to know what an index fund is. With
-Enzo, you will be able to boost your savings while requiring no financial
+Curvo, you will be able to boost your savings while requiring no financial
 knowledge.  And by pushing automation, it won't require any of your time either.
 
 At the same time, we see a big need for educating our peers on how to live a
@@ -67,15 +67,15 @@ We are using the experience that we acquired in building
 1 million teachers and students across the globe using it. We have learned a lot
 over the past few years on how to grow a product and build a brand that is used
 and loved by this many users. We are now applying these skills, knowledge and
-experience to Enzo.
+experience to Curvo.
 
 ## Built for Europeans
-We are building Enzo specifically for Europeans. We started a [waiting list](https://enzo.fund/?utm_source=yoranbrondsema-blog&utm_medium=blog-post&utm_campaign=introducing-enzo#sign-up) because we are still in the process of acquiring a
+We are building Curvo specifically for Europeans. We started a [waiting list](https://curvo.eu/?utm_source=yoranbrondsema-blog&utm_medium=blog-post&utm_campaign=introducing-curvo#sign-up) because we are still in the process of acquiring a
 license. This is required to be operate a company in the finance industry. We
 are expecting to launch the product during the next few months.
 
-**If Enzo piques your interest, don't hesitate to head over to
-[enzo.fund](https://enzo.fund/?utm_source=yoranbrondsema-blog&utm_medium=blog-post&utm_campaign=introducing-enzo) and try out our calculator to see how much you
+**If Curvo piques your interest, don't hesitate to head over to
+[curvo.eu](https://curvo.eu/?utm_source=yoranbrondsema-blog&utm_medium=blog-post&utm_campaign=introducing-curvo) and try out our calculator to see how much you
 can improve your savings.**
 
-![Cover for Enzo](/images/enzo-cover.png)
+![Cover for Curvo](/images/curvo-cover.png)

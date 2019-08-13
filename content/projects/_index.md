@@ -7,10 +7,10 @@ time working on. It's also the biggest piece of software that I've built. It's
 currently used by over a million teachers and students across the
 world, which is something we're all proud of!
 
-## [Enzo](https://enzo.fund/?utm_source=yoranbrondsema-blog)
-Our latest project that I introduced [in a post](https://www.yoranbrondsema.com/post/introducing-enzo-a-better-way-of-saving-money/). Investing is hard yet I believe it's crucial for our generation to be well-prepared for the future. Enzo aims to make passive investing easy and accessible to everyone.
+## [Curvo](https://curvo.fund/?utm_source=yoranbrondsema-blog&utm_medium=projects)
+Our latest project that I introduced [in a post](https://www.yoranbrondsema.com/post/introducing-enzo-a-better-way-of-saving-money/). Investing is hard yet I believe it's crucial for our generation to be well-prepared for the future. Curvo aims to make passive investing easy and accessible to everyone.
 
-## [Backtest](https://backtest.enzo.fund)
+## [Backtest](https://backtest.curvo.eu)
 The back-testing tool for European index investors. Many of the articles on
 this blog are analyses of my portfolio. For that, I built my own custom
 back-testing software. Over time, it evolved into something pretty valuable so

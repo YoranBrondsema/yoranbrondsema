@@ -18,7 +18,7 @@ hope to fill this gap with this article!
 Over the past few months, I've written a couple of reviews on
 websites that award gift cards, such as [Capterra](https://www.capterra.com/)
 and [G2](https://www.g2.com/). They're for services that we use at
-[Sutori](https://www.sutori.com) and [Enzo](https://enzo.fund), so each review
+[Sutori](https://www.sutori.com) and [Curvo](https://curvo.eu), so each review
 only takes me a couple of minutes to write. In exchange, they award you $10 in
 the form of an Amazon gift card or a prepaid Visa card.
 

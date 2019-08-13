@@ -70,7 +70,7 @@ Furthermore, we are making the following assumptions for our simulation.
   simulation. This won't affect the comparison between the
   rebalancing strategies though.
 
-The simulations are run using [Backtest](https://backtest.enzo.fund), the
+The simulations are run using [Backtest](https://backtest.curvo.eu), the
 custom back-testing tool that I wrote.
 
 ### Simulation 1: no transaction fees

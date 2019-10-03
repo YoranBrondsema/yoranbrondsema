@@ -26,6 +26,13 @@ find some useful information in the following posts.
 * [Analyzing the Sharpe ratio of my portfolio]({{< ref "post/20190610-sharpe-ratio-analysis-of-my-portfolio.md" >}})
 * [Choosing the right rebalancing strategy for your portfolio]({{< ref "post/20190719-choosing-the-right-rebalancing-strategy.md" >}})
 
+Furthermore, I wrote a couple of relevant articles on [Curvo's blog](https://curvo.eu):
+
+* ["Épargne-pension"/"pensioensparen" vs passive investing](https://curvo.eu/how-does-investing-in-a-pension-account-epargne-pension-compare-to-passive-investing-for-belgians)
+* [Is investing in cryptocurrencies a good idea?](https://curvo.eu/is-investing-in-cryptocurrencies-a-good-idea/)
+* [Homeownership vs passive investing](https://curvo.eu/im-thinking-about-buying-a-house-but-im-also-interested-in-investing-in-index-funds-whats-the-best-return-on-investment/)
+* [I want to start investing but I’m worried we’ll have another financial crash and I’ll lose all my money. What do you suggest I do?](https://curvo.eu/i-want-to-start-investing-but-im-worried-well-have-another-financial-crash-and-ill-lose-all-my-money-what-do-you-suggest-i-do/)
+
 ## Performance reports
 I post the performance reports of [my portfolio](/investment-portfolio) on a
 quarterly basis. The regularity gives me the discipline to keep track and get

@@ -1,3 +1,21 @@
+- title: The Road to Serfdom
+  author: Friedrich Hayek
+  favorite: true
+- title: Competing Against Luck
+  author: Clayton M. Christenen
+  favorite: true
+- title: Genghis Khan and the Making of the Modern World
+  author: Jack Weatherford
+  favorite: true
+- title: Mensonge romantique et vérité romanesque
+  author: René Girard
+  favorite: true
+- title: "Deep Risk: How History Informs Portfolio Design"
+  author: William J. Bernstein
+- title: "Shape Up: Stop Running in Circles and Ship Work that Matters"
+  author: Ryan Singer
+- title: Le Prince
+  author: Nicolas Machiavel
 - title: What I Learned Losing a Million Dollars
   author: Jim Paul
 - title: Le Moine et le Philosophe
@@ -10,6 +28,8 @@
   favorite: true
 - title: L'Odyssée
   author: Homère
+- title: "Skating Where the Puck Was: The Correlation Game in a Flat World"
+  author: William J. Bernstein
 - title: Het grote pensioenbedrog
   author: Jef Vuchelen & Mark Scholliers
 - title: "The Comic Book Story of Beer: The World's Favorite Beverage from 7000 BC to Today's Craft Brewing Revolution"

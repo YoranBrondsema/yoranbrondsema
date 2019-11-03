@@ -71,9 +71,11 @@ in bonds as you get older, because of their reduced volatility. Something to
 ponder about!
 
 ## Tax on trading accounts ("taks op effectenrekeningen" or "taxes sur les comptes-titres")
-Belgium will withhold a yearly 0.15% tax on any trading account (for instance on
-Lynx, Binck Bank or Degiro) whose value exceeds €500,000. With such a high
-limit, it's a good problem to have!
+Up until September 2019, Belgium was withholding a yearly 0.15% tax on any
+trading account (for instance on Lynx, Binck Bank or Degiro) whose value
+exceeds €500,000. This tax was deemed unconstitutional in October 2019 and will
+not be applicable from 2020. However, this does mean that you'll have to pay it
+when you do your taxes for the year 2019.
 
 ## Want to know more?
 If you want to know more about the topic, I refer you Wikifin's pages in

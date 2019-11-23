@@ -1,5 +1,5 @@
 ---
-title: "ESMA report on passive vs active investing"
+title: "Passive funds beat active funds, according to the ESMA"
 date: 2019-11-23T13:56:59+01:00
 slug: esma-report-on-passive-vs-active-investing
 tags: ["Investing"]

@@ -77,4 +77,4 @@ correlation between the TER of a fund and its return. If there was a positive
 correlation, we should have seen a trend in the chart going from the bottom
 left to the top right.
 
-{{< figure src="/images/esma--ter-vs-performance.svg" caption="There is no correlation between the TER and the performance of a fund." >}}
+{{< figure src="/images/esma--ter-vs-performance.png" caption="There is no correlation between the TER and the performance of a fund." >}}

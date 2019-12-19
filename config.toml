@@ -7,8 +7,8 @@ paginate = 20
 
 [params]
   name = "Yoran Brondsema"
-  description = "CTO of Sutori"
-  bio = "CTO of Sutori"
+  description = "Blog about passive investing for Belgians and Europeans."
+  bio = "Yoran blogs about passive investing for Belgians and Europeans. CTO of Curvo and Sutori."
   enableRSS = true
   enableGoogleAnalytics = true
 

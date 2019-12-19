@@ -25,6 +25,7 @@ find some useful information in the following posts.
 * [Deep dive into the past performance of my portfolio]({{< ref "post/deep-dive-into-the-past-performance-of-my-portfolio.md" >}})
 * [Analyzing the Sharpe ratio of my portfolio]({{< ref "post/20190610-sharpe-ratio-analysis-of-my-portfolio.md" >}})
 * [Choosing the right rebalancing strategy for your portfolio]({{< ref "post/20190719-choosing-the-right-rebalancing-strategy.md" >}})
+* [How many losses must I be able to stomach?]({{< ref "post/20191208-how-many-losses-must-i-be-able-to-stomach.md" >}})
 
 Furthermore, I wrote a couple of relevant articles on [Curvo's blog](https://curvo.eu):
 

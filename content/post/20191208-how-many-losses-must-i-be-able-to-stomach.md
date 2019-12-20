@@ -23,6 +23,19 @@ of monthly returns of my portfolio. Furthermore, I am going to investigate the
 length and depth of the drawdown periods, i.e. periods where my portfolio has
 been at a loss.
 
+## My portfolio
+To set the context, below is my portfolio as it is at the time of writing. It's
+the portfolio that I will be analyzing. It's fairly classic for the passive
+investor, consisting of a mix of stocks, bonds and REITs (real-estate).
+
+| ETF                                                                                                 | Type        | Allocation 
+|-----------------------------------------------------------------------------------------------------|-------------|------------
+| [Xtrackers Global Government Bond EUR Hedged](https://www.justetf.com/en/etf-profile.html?isin=LU0378818131) | Bonds   | 18%
+| [iShares Core MSCI World](https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983)            | Stocks      | 49%        
+| [iShares MSCI World Small Cap](https://www.justetf.com/en/etf-profile.html?isin=IE00BF4RFH31)       | Stocks      | 14%        
+| [Xtrackers MSCI Emerging Markets](https://www.justetf.com/en/etf-profile.html?isin=IE00BTJRMP35)    | Stocks      | 10%        
+| [Amundi ETF FTSE EPRA NAREIT Global](https://www.justetf.com/en/etf-profile.html?isin=LU1437018838) | Real-estate | 9%         
+
 ## Histogram of the monthly returns
 Let's look at the histogram of the monthly returns between December 2000 and
 November 2019.

@@ -210,9 +210,10 @@ What is the intuition behind this? When you invest regularly, you actually
 profit from the downturns. Investing at the lowest moments of a downturn
 accelerates recovery because you buy when prices are at its cheapest.
 
-**Investing a lump sum also makes you much more sensitive to the timing of your
-investment.** For instance, compare the average return of my portfolio for a
-one-off €10,000 investment for the following two 10-year periods:
+**Investing a lump sum also makes your investment much more sensitive to
+short-term volatility in the markets.** For instance, compare the average
+return of my portfolio for a one-off €10,000 investment for the following two
+10-year periods:
 
 - May 2007 to May 2017: 5.89% (from [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?periodEnd=2017-06&periodStart=2007-05))
 - February 2009 to February 2019: 12.96% (from [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?periodEnd=2019-03&periodStart=2009-02))
@@ -221,8 +222,8 @@ one-off €10,000 investment for the following two 10-year periods:
 is more than twice the difference!** The reason is that in the first scenario,
 we invested our €10,000 right before the financial crisis. And in the second
 scenario, we invested right in the middle of the crisis, when prices were
-lowest. This sensitivity to timing is much less pronounced when investing
-regularly.
+lowest. This difference in 10-year return is much less pronounced when
+investing regularly.
 
 ## Perform your own analysis with Backtest
 Finally, **you can run the same analysis for your own portfolio using

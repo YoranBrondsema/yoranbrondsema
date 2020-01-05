@@ -4,7 +4,7 @@ date: 2019-10-10T14:46:44-05:00
 slug: portfolio-performance-report-q3-2019
 tags: ["Investing"]
 toc: true
-description: "Q3 2019 results of my passive investing portfolio."
+description: "2019 Q3 results of my passive investing portfolio."
 ---
 
 ## Change in portfolio: to global bond fund hedged in Euro

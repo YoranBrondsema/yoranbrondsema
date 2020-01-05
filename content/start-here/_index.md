@@ -39,6 +39,7 @@ I post the performance reports of [my portfolio](/investment-portfolio) on a
 quarterly basis. The regularity gives me the discipline to keep track and get
 insights.
 
+* [2019 Q4]({{< ref "post/20200105-portfolio-performance-report-q4-2019.md" >}})
 * [2019 Q3]({{< ref "post/20191010-portfolio-performance-report-q3-2019.md" >}})
 * [2019 Q2]({{< ref "post/20190704-portfolio-performance-report-q2-2019.md" >}})
 * [2019 Q1]({{< ref "post/portfolio-performance-report-q1-2019.md" >}})

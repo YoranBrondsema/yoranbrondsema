@@ -27,7 +27,7 @@ But I realized that this doesn't make much sense. So from now, the net asset val
 ### The chart
 {{< figure src="/images/2019-q4-portfolio-growth.svg" caption="Portfolio performance as of January 1st 2019." >}}
 
-The last quarter of 2019 was very good. **I invested a total of €661** yet **the value of the portfolio increased by €1,985**. So far, my **total return has been 15.1%** since I started investing in February 2008.
+The last quarter of 2019 was very good. **I invested a total of €661** yet **the value of the portfolio increased by €1,985**. So far, my **total return has been 15.1%** since I started investing in February 2018.
 
 ## Performance per asset
 {{< figure src="/images/2019-q4-performance-per-asset.svg" caption="Performance per asset in my portfolio as of January 1st 2020." >}}

@@ -5,6 +5,7 @@ slug: sharpe-ratio-analysis-of-my-portfolio
 tags: ["Investing"]
 toc: true
 description: "The Sharpe ratio is a way to measure the performance of an investment while taking into account risk. I analyze the Sharpe ratio of my portfolio and compare it with the Sharpe ratios of the S&P 500 and MSCI World indexes."
+mathjax: true
 ---
 
 In [a previous post]({{< ref "post/deep-dive-into-the-past-performance-of-my-portfolio.md" >}}), I analyzed

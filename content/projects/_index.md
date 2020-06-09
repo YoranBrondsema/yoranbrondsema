@@ -1,14 +1,17 @@
 Here is a selection of the projects that I am working on or have worked on in
 the past.
 
-## [Sutori](https://www.sutori.com)
-Being the CTO of Sutori is my day-job and it's the app I spend by far the most
-time working on. It's also the biggest piece of software that I've built. It's
-currently used by over a million teachers and students across the
-world, which is something we're all proud of!
+## [Curvo](https://curvo.eu/?utm_source=yoranbrondsema-blog&utm_medium=projects)
+Our latest project that I introduced [in a post](https://www.yoranbrondsema.com/post/introducing-enzo-a-better-way-of-saving-money/).
+Investing is hard yet I believe it's crucial for our generation to be
+well-prepared for the future. Curvo aims to make passive investing easy and
+accessible to European millennials.
 
-## [Curvo](https://curvo.fund/?utm_source=yoranbrondsema-blog&utm_medium=projects)
-Our latest project that I introduced [in a post](https://www.yoranbrondsema.com/post/introducing-enzo-a-better-way-of-saving-money/). Investing is hard yet I believe it's crucial for our generation to be well-prepared for the future. Curvo aims to make passive investing easy and accessible to everyone.
+## [Sutori](https://www.sutori.com)
+I'm also the CTO of Sutori. It's the app that I've spent the most time working
+on. It's also the biggest piece of software that I've built. It's currently
+used by over 1.4 million teachers and students across the world, which is
+something we're all proud of!
 
 ## [Backtest](https://backtest.curvo.eu)
 The back-testing tool for European index investors. Many of the articles on

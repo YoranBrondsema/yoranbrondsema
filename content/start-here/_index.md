@@ -26,8 +26,9 @@ find some useful information in the following posts.
 * [Analyzing the Sharpe ratio of my portfolio]({{< ref "post/20190610-sharpe-ratio-analysis-of-my-portfolio.md" >}})
 * [Choosing the right rebalancing strategy for your portfolio]({{< ref "post/20190719-choosing-the-right-rebalancing-strategy.md" >}})
 * [How many losses must I be able to stomach?]({{< ref "post/20191208-how-many-losses-must-i-be-able-to-stomach.md" >}})
+* [Simplifying my portfolio (pt 1): questioning the small cap fund]({{< ref "post/20200516-simplifying-my-portfolio-pt-1-questioning-the-small-cap-fund.md" >}})
 
-Furthermore, I wrote a couple of relevant articles on [Curvo's blog](https://curvo.eu):
+Furthermore, I wrote a couple of relevant articles on [Curvo's blog](https://curvo.eu/learn):
 
 * ["Épargne-pension"/"pensioensparen" vs passive investing](https://curvo.eu/how-does-investing-in-a-pension-account-epargne-pension-compare-to-passive-investing-for-belgians)
 * [Is investing in cryptocurrencies a good idea?](https://curvo.eu/is-investing-in-cryptocurrencies-a-good-idea/)
@@ -39,6 +40,7 @@ I post the performance reports of [my portfolio](/investment-portfolio) on a
 quarterly basis. The regularity gives me the discipline to keep track and get
 insights.
 
+* [2020 Q1]({{< ref "post/20200407-portfolio-performance-report-q1-2020.md" >}})
 * [2019 Q4]({{< ref "post/20200105-portfolio-performance-report-q4-2019.md" >}})
 * [2019 Q3]({{< ref "post/20191010-portfolio-performance-report-q3-2019.md" >}})
 * [2019 Q2]({{< ref "post/20190704-portfolio-performance-report-q2-2019.md" >}})

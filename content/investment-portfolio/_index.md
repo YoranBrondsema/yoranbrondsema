@@ -8,7 +8,6 @@ myself so I had to build an EU-version of the portfolio he suggests.
 | ETF                                                                                                 | Type        | Allocation 
 |-----------------------------------------------------------------------------------------------------|-------------|------------
 | [Xtrackers Global Government Bond EUR Hedged](https://www.justetf.com/en/etf-profile.html?isin=LU0378818131) | Bonds   | 18%
-| [iShares Core MSCI World](https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983)            | Stocks      | 49%        
-| [iShares MSCI World Small Cap](https://www.justetf.com/en/etf-profile.html?isin=IE00BF4RFH31)       | Stocks      | 14%        
+| [iShares Core MSCI World](https://www.justetf.com/en/etf-profile.html?isin=IE00B4L5Y983)            | Stocks      | 63%        
 | [Xtrackers MSCI Emerging Markets](https://www.justetf.com/en/etf-profile.html?isin=IE00BTJRMP35)    | Stocks      | 10%        
 | [Amundi ETF FTSE EPRA NAREIT Global](https://www.justetf.com/en/etf-profile.html?isin=LU1437018838) | Real-estate | 9%         

@@ -1,3 +1,25 @@
+- title: "The Unabomber's Manifesto: Industrial Society and Its Future"
+  author: "Theodore J. Kaczynski"
+- title: "L'homme qui plantait des arbres"
+  author: "Jean Giono"
+  favorite: true
+- title: "The Visual Display of Quantitative Information"
+  author: "Edward R. Tufte"
+  favorite: true
+- title: "Investing Demystified: How to Invest Without Speculation and Sleepless Nights"
+  author: "Lars Kroijer"
+  favorite: true
+- title: "The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution"
+  author: "Gregory Zuckerman"
+- title: "Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers"
+  author: "Geoffrey A. Moore"
+- title: "Seven Brief Lessons on Physics"
+  author: "Carlo Rovelli"
+- title: "Peter Freuchen's Book of the Eskimos"
+  author: "Peter Freuchen"
+- title: "The (Mis)Behavior of Markets"
+  author: "Benoît B. Mandelbrot"
+  favorite: true
 - title: "Global Asset Allocation: A Survey of the World's Top Asset Allocation Strategies"
   author: Mebane Faber
 - title: The Dispossessed

@@ -123,7 +123,7 @@ for all small cap equity funds yields the following indexes:
 We are looking for an index that is **global** and contains only **value
 stocks**. None of these indexes match these criteria.
 
-## Dropping the small cap fund
+## Verdict: drop the small cap fund
 We face a situation where the ideal solution, a fund tracking the MSCI World
 Small Cap Value index, does not exist in practice. The research shows that the
 size premium does not exist when including growth small cap stocks, which is

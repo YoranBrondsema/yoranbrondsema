@@ -27,6 +27,7 @@ find some useful information in the following posts.
 * [Choosing the right rebalancing strategy for your portfolio]({{< ref "post/20190719-choosing-the-right-rebalancing-strategy.md" >}})
 * [How many losses must I be able to stomach?]({{< ref "post/20191208-how-many-losses-must-i-be-able-to-stomach.md" >}})
 * [Simplifying my portfolio (pt 1): questioning the small cap fund]({{< ref "post/20200516-simplifying-my-portfolio-pt-1-questioning-the-small-cap-fund.md" >}})
+* [Simplifying my portfolio (pt 2): what about REITs?]({{< ref "post/20200628-simplifiying-my-portfolio-pt-2-what-about-reits.md" >}})
 
 Furthermore, I wrote a couple of relevant articles on [Curvo's blog](https://curvo.eu/learn):
 

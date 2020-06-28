@@ -9,7 +9,7 @@ toc: true
 ## Investing the REIT fund
 In the [first article of this series]({{< ref "post/20200516-simplifying-my-portfolio-pt-1-questioning-the-small-cap-fund.md" >}}), we scrutinized the role of the small cap fund in my portfolio. We
 concluded that it doesn't belong in it, because of the dubious benefits of
-small cap stocks and the broker fees associated with addtional funds in the
+small cap stocks and the broker fees associated with additional funds in the
 portfolio.
 
 In this article, we are going to take a hard look at the REIT fund in my portfolio, *Amundi ETF FTSE EPRA NAREIT Global*[^1], which makes up 9% of my portfolio.
@@ -205,7 +205,7 @@ And in the end, I just love a **simpler portfolio**.
 
 ## Updated portfolio
 After removing the REIT fund from my portfolio, I have 9% to allocate, which I
-am going to put all into the MSCI World fund. The resulting portfolio is show
+am going to put all into the MSCI World fund. The resulting portfolio is shown
 below. We're down to 3 funds!
 
 | ETF                                                                                                 | Type        | Allocation 

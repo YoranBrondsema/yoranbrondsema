@@ -7,12 +7,12 @@ toc: true
 ---
 
 ## Investing the REIT fund
-In the [first article of this series]({{< ref "post/20200516-simplifying-my-portfolio-pt-1-questioning-the-small-cap-fund.md" >}}), we scrutinized the role of the small cap fund in my portfolio. We
-concluded that it doesn't belong in it, because of the dubious benefits of
-small cap stocks and the broker fees associated with additional funds in the
-portfolio.
-
-In this article, we are going to take a hard look at the REIT fund in my portfolio, *Amundi ETF FTSE EPRA NAREIT Global*[^1], which makes up 9% of my portfolio.
+In the [first article of this series]({{< ref "post/20200516-simplifying-my-portfolio-pt-1-questioning-the-small-cap-fund.md" >}}), we scrutinized the role of the small cap fund in my portfolio. And we
+concluded that it isn't worth keeping, because of the questionable benefits of
+small cap stocks and the higher broker fees that come with having more funds in
+a portfolio. In this article, we are going to take a hard look at the REIT fund
+in my portfolio, *Amundi ETF FTSE EPRA NAREIT Global*[^1], which makes up 9% of
+my portfolio.
 
 {{< table "table-simplify-portfolio-reit" >}}
 | ETF                                                                                                 | Type        | Allocation 
@@ -26,12 +26,13 @@ In this article, we are going to take a hard look at the REIT fund in my portfol
 ## What are REITs?
 Real estate investment trusts, or REITs, are a special type of fund that invest
 primarily in income-producing real-estate assets. They were created in the US
-in 1960 to enable investors to gain exposure to the real estate market while
-not having to operate the buildings themselves. Since then, they have been
-introduced to many other countries around the world.
+in 1960 to enable investors to gain exposure to the real estate market without
+having to operate the buildings themselves. Since then, REITs have been
+expanded to many other countries around the world.
 
-There exists multiple types of REITs, depending on the type of building that
-it operates. Some examples of types of REITs are:
+There are many types of REITs that are categorized based on the type of
+building that they operate. Some examples include:
+
 - **Residential.** They own and operate homes and apartment buildings which they rent out to individuals and families.
 - **Retail.** Malls, shopping centres and other retail centres.
 - **Office.**
@@ -39,14 +40,15 @@ it operates. Some examples of types of REITs are:
 - **Speciality.** Properties that don’t fit within the other REIT sectors. Examples include movie theaters, casinos, farmland and outdoor advertising sites.
 
 REITs are a good way for an investor to gain exposure to the real estate market
-without having to own property himself. Indeed, the ownership of real estate
-comes with several problems:
+without having to own the property. Indeed, the ownership of real estate comes
+with several problems:
+
 - **Illiquidity.** Property is notoriously illiquid. I know many people around me who have had their house on the market for several years and still haven't been able to sell it. In contrast, shares of REITs are traded like stocks that you can buy and sell at any time. The liquidity is even higher when the REITs are packaged in an ETF that follows a REIT index.
-- **Intensiveness of management.** Operating and renting out a building is time- and hassle-intensive. REITs take care of all the management of its buildings so it demands no time from your part.
-- **Lack of diversification.** Property that you buy as an individual tends to be concentrated in a single city or region, typically the area that you live in. This makes them a poorly diversified investment. On the other hand, because of their scale, REITs typically own buildings all over the world.
+- **Intensiveness of management.** Operating and renting out a building can be time-intensive and a huge hassle. REITs take care of all the management of its buildings so it demands no time on your part.
+- **Lack of diversification.** Property that you buy as an individual tends to be concentrated in a single city or region, typically the area that you live in. This makes them a poorly diversified investment. On the other hand, because of their scale, REITs can own buildings all over the world.
 
 ## What's in the REIT fund?
-The *Amundi ETF FTSE EPRA NAREIT Global* fund[^1] tracks the FTSE EPRA/NAREIT Developed index (they love their acronyms). This index consists of 335 REITs from 21 "developed" countries[^2]. Over half of the exposure comes from the US alone though.
+The *Amundi ETF FTSE EPRA NAREIT Global* fund[^1] tracks the FTSE EPRA/NAREIT Developed index (they love their acronyms). This index consists of 335 REITs from 21 "developed" countries[^2]. Over half of the exposure comes from the US alone, though.
 
 The index is diversified across various types of REITs:
 - 29% industrial and office REITs
@@ -58,24 +60,24 @@ The index is diversified across various types of REITs:
 All in all, it represents a good sample of the world real estate market.
 
 ## Why REITs belong in a passive investment portfolio
-There are several reasons why REITs can earn a spot in a portfolio of index funds.
+There are several reasons why you may want to consider adding REITs into your
+portfolio of index funds.
 
 ### Distinct asset class
 The real estate sector is often viewed as a distinct asset class, separate from
 stocks and bonds. In theory, the inclusion of REITs in your portfolio should
-therefore result in a diversification benefit.
+result in a diversification benefit.
 
 How true is that? We can check by examining the correlation between different
 assets. The chart below shows the 36-month rolling correlation between the
 **FTSE EPRA/NAREIT Developed** index and the **FTSE World Government Bond
 Developed Markets (Hedged EUR)** index. The latter is a global index of
-investment-grade government bonds that is hedged to the Euro to mitigate any
-currency volatility. The portion in my portfolio dedicated to bonds follows
+investment-grade government bonds. The bonds portion of my portfolio follows
 this index.
 
 {{< figure src="/images/correlation--ftse-epra-nareit-developed--ftse-world-government-bond-developed-markets-hedged-eur.svg" caption="36-month rolling correlation between the FTSE EPRA/NAREIT Developed index and the FTSE World Government Bond Developed Markets (Hedged EUR) index (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgSgogkgKgBAMjgIQPYDsAmBnEAaYUAGQFUBGAFgGYB2ABjIA5GrH86A6AVgF0CRSdAGwBOOiKEVxAJnbceCoA))" >}}
 
-The correlation changes a lot but there are clearly periods where it's low or
+The correlation changes a lot, but there are clearly periods where it's low or
 even negative.
 
 Below, we plotted the correlation between the **FTSE EPRA/NAREIT Developed**
@@ -85,8 +87,8 @@ zero.
 
 {{< figure src="/images/correlation--ftse-epra-nareit-developed--msci-world.svg" caption="36-month rolling correlation between the FTSE EPRA/NAREIT Developed index and the MSCI World index (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgSgogkgKgBAMjgZQC4HsDGBrAziAGmFABkBVARgBYBmAdgAYKAOZm5whgOgFYBdIiHIU6zCjyoURATk68+CoA))" >}}
 
-After seeing these numbers, I'm not totally convinced about the diversification
-benefit of the real estate market, especially in relation to stocks.
+After seeing these numbers, I'm not totally convinced that the real estate
+market truly diversifies my portfolio, especially in relation to stocks.
 
 ### Historical returns have been very good
 A second reason to include a REIT fund in your portfolio is that real estate
@@ -94,8 +96,8 @@ has seen very good returns over the last decades.
 
 The chart below compares the performance of the FTSE EPRA/NAREIT Developed fund
 with that of the MSCI World fund. The average returns of both indexes have been
-fairly similar. Pre-Corona, I would argue that the REIT fund was even
-performing better.
+fairly similar. Pre-Corona, I would argue that the REIT fund was performing
+even better.
 
 ||Net asset value|Compound annual growth rate|Sharpe ratio|
 |--- |--- |--- |--- |
@@ -105,7 +107,7 @@ performing better.
 {{< figure src="/images/comparison--ftse-epra-nareit-developed--msci-world.svg" caption="Comparison of €10,000 invested in the FTSE EPRA/NAREIT Developed fund and the MSCI World fund (source: [Backtest](https://backtest.curvo.eu/compare?portfolios=NoIgsgygwgkgBAdQPYCcA2ATEAaYoYCiADEQEIAsAMgKwCaAnABwDMOAjALpdA%2CNoIgYgKgygogBDACgJQIIHoByrkwJIRwAiApgG4kA2A9gA4kAmIANMKADICqAjACwDMAdgAM3ABxj%2BYltwC68oA))" >}}
 
 ## Why REITs *don't* belong in a passive investment portfolio
-However, they are also reasons for not having a separate REIT fund in your
+However, there are also reasons for excluding a separate REIT fund from your
 portfolio.
 
 ### Other funds in my portfolio already allocate to real estate
@@ -122,21 +124,18 @@ second largest REIT, is represented in the MSCI World index as well.
 
 ### Overweighting the real estate sector is active investing
 By adding a REIT fund to my portfolio, I essentially overweight the real estate
-sector compared to its market capitalization. And that is equivalent to
-claiming that I know more than the entire market in correctly pricing the
-sector. This looks suspiciously like active investing and is in contradiction
-with the philosophy of passive investing, which I adhere to.
-
-Furthermore, I have no reason to believe that I have an edge over the markets
-when it comes to real estate. I hardly know anything about my local real estate
-market, let alone the global sector.
+sector compared to its market capitalization. But I have no reason to believe
+that I have an edge over the markets when it comes to real estate. I hardly
+know anything about my local real estate market, let alone the global sector.
+Furthermore, this looks suspiciously like active investing and contradicts the
+philosophy of passive investing, which I adhere to.
 
 ### REITs are actually not that separate of an asset class
 One of the reasons to include REITs as a separate fund in your portfolio is
 that the behaviour of the real estate market is different enough from stocks
 and bonds that they form a distinct asset class. Our analysis of the
-correlation between the asset classes have put this in doubt. Recent academic
-research has further put this claim on shaky ground.
+correlation among the asset classes have put this in doubt. Recent academic
+research cast further doubt on this claim.
 
 Both *Real Estate Betas and the Implications for Asset Allocation*[^6] and *Are
 REITs a Distinct Asset Class?*[^7] investigated if the returns of the real
@@ -144,11 +143,11 @@ estate sector can be explained by the same factors that underpin the risks and
 returns of the stocks and bonds markets. It turns out that it does.
 
 A portfolio consisting of 60% small cap value stocks and 40% high-yield bonds
-achieves the same returns as the real estate market. The killer though is that
-it does so **with a lower risk**. REITs are not adding any expected return in
-excess of what could be achieved through stocks and bonds, but they are adding
-additional **uncompensated risk**. Therefore, the most efficient way to get
-exposure to the factor returns of REITs is actually through a portfolio of
+achieves the same returns as the real estate market. The killer, though, is
+that it does so **with a lower risk**. REITs are not adding any expected return
+in excess of what could be achieved through stocks and bonds, but they are
+adding additional **uncompensated risk**. Therefore, the most efficient way to
+get exposure to the factor returns of REITs is actually through a portfolio of
 stocks and bonds.
 
 ### Additional transaction fees
@@ -169,7 +168,7 @@ portion to the MSCI World fund instead:
 
 {{< figure src="/images/comparison--yoran-portfolio-reit.svg" caption="Comparison of €10,000 invested in my portfolio that includes the REIT fund and that excludes the REIT fund (source: [Backtest](https://backtest.curvo.eu/compare?portfolios=NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQAYBmAdgA4mBGNu10mgOnYF0yIAJIBRGjQBCAFgoBWMAE4mdbjwBsdQaDETJAFQBSAJQCyaOnLWttIaq2mMa7FUzU1F-L0A%2CNoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhQAoB3AzACwgFdMUAlAUQEkAVAShABphQAMgFUADAGYA7AA4pARjljZvEQDp5AXT4hWzESIBCAFgEBWMAE4pY5SokAmTaB1797AFKMAsmjEmbI80Cg4JCpdXCgA))" >}}
 
-My current portfolio, which includes the REIT, is slightly more performant.
+My current portfolio, which includes the REIT, performs slightly better.
 
 However, things change when we simulate the scenario of monthly contributions
 of €200 together with a broker fee of €6 per transaction (this is the fee that
@@ -190,22 +189,22 @@ fund from my portfolio**.
 Academic research has shown that the real estate sector isn't as much as a
 distinct asset class as previously thought. Assuming this, overweighting a
 specific sector contradicts the basic principle underlying passive investing:
-that markets price assets efficiently. I don't know much about my local real
+the markets price assets efficiently. I don't know much about my local real
 estate market, let alone the global sector. So I can't claim to have an edge
 over everyone else. Therefore, I have no basis to claim that the real estate
 sector is under-priced and that I should overweight it as a consequence.
 
-Furthermore, historical analysis shows that when taking into account
+Furthermore, historical analysis shows that, when taking into account
 transaction fees, there has been no difference in the returns and risk of my
 portfolio with or without a REIT fund over the last 30 years. Of course, past
-performance doesn't say anything about the future. But I feel reassured in my
-decision by the theoretical underpinning of the academic research.
+performance doesn't say anything about the future, but I feel reassured in my
+decision being founded by academic research.
 
 And in the end, I just love a **simpler portfolio**.
 
 ## Updated portfolio
 After removing the REIT fund from my portfolio, I have 9% to allocate, which I
-am going to put all into the MSCI World fund. The resulting portfolio is shown
+am going to put into the MSCI World fund. The resulting portfolio is shown
 below. We're down to 3 funds!
 
 | ETF                                                                                                 | Type        | Allocation 

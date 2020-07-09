@@ -51,4 +51,4 @@ insights.
 * [2018 Q2]({{< ref "post/portfolio-performance-report-july-2018.md" >}})
 
 ## Back-test your portfolio
-I developed [Backtest](https://backtest.curvo.eu), the back-testing tool for European investors. Use it to discover the past performance of your portfolio. [Here is the past performance of my portfolio](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA).
+I developed [Backtest](https://backtest.curvo.eu), the back-testing tool for European investors. Use it to discover the past performance of your portfolio. As an example, [analyze the past performance of my portfolio](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQAYBmAdgA4mBGNu10mgOnYF0yIAJIBRGjQBCAFgoBWMAE4mdbjwYAmQaDETJAFQBSAJQCyaOnLWt+toA).

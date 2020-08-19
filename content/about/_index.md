@@ -1,5 +1,5 @@
 My name is Yoran Brondsema and I live in Brussels, Belgium. I co-founded
-[Sutori](https://www.sutori.com) and [Curvo](https://curvo.fund/?utm_source=yoranbrondsema-blog&utm_medium=about) and I'm also the
+[Sutori](https://www.sutori.com) and [Curvo](https://curvo.eu/?utm_source=yoranbrondsema-blog&utm_medium=about) and I'm also the
 CTO of both of these companies.
 
 ## Open invite

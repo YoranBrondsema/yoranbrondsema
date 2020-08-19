@@ -40,7 +40,7 @@ investor, consisting of a mix of stocks, bonds and REITs (real-estate).
 Let's look at the histogram of the monthly returns between December 2000 and
 November 2019.
 
-{{< figure src="/images/histogram-of-monthly-returns.svg" caption="Histogram of monthly returns of my portfolio between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?periodEnd=2019-11&periodStart=2000-12))" >}}
+{{< figure src="/images/histogram-of-monthly-returns.svg" caption="Histogram of monthly returns of my portfolio between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?config=%7B%22periodStart%22%3A%222000-12%22%2C%22periodEnd%22%3A%222019-11%22%7D))" >}}
 
 To calculate this chart, we divided all the monthly returns in the period into
 buckets: the returns between -10% and -8% go into one bucket, those between -8%
@@ -79,7 +79,7 @@ The histogram gives us an idea of what kind of monthly returns we can expect
 and their frequency. But it doesn't tell us how long periods of negative
 returns occur. For this, we need to look at the drawdown chart.
 
-{{< figure src="/images/drawdown.svg" caption="Drawdown chart of my portfolio between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?periodEnd=2019-11&periodStart=2000-12))" >}}
+{{< figure src="/images/drawdown.svg" caption="Drawdown chart of my portfolio between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?config=%7B%22periodStart%22%3A%222000-12%22%2C%22periodEnd%22%3A%222019-11%22%7D))" >}}
 
 A drawdown starts when the value of a portfolio goes down. The time between
 reaching a peak and its recovery is the drawdown period.
@@ -115,7 +115,7 @@ Also, it will exhibit longer and deeper drawdown periods. In contrast, the
 portfolio of bonds should be an easy ride!
 
 ### 100% stocks
-{{< figure src="/images/histogram-of-monthly-returns-msci-world.svg" caption="Histogram of monthly returns of MSCI World between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA?periodEnd=2019-11&periodStart=2000-12))" >}}
+{{< figure src="/images/histogram-of-monthly-returns-msci-world.svg" caption="Histogram of monthly returns of MSCI World between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA?config=%7B%22periodStart%22%3A%222000-12%22%2C%22periodEnd%22%3A%222019-11%22%7D))" >}}
 
 Indeed, We can see that the monthly returns are more extreme. The worst months
 are:
@@ -131,7 +131,7 @@ are:
 - October 2015: 9.1%
 - January 2019: 7.4%
 
-{{< figure src="/images/drawdown-msci-world.svg" caption="Drawdown chart of MSCI World between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA?periodEnd=2019-11&periodStart=2000-12))" >}}
+{{< figure src="/images/drawdown-msci-world.svg" caption="Drawdown chart of MSCI World between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA?config=%7B%22periodStart%22%3A%222000-12%22%2C%22periodEnd%22%3A%222019-11%22%7D))" >}}
 
 The worst drawdown period is also more extreme. **The longest and deepest
 drawdown period lasted for 6 years and 3 months** and was between January 2001
@@ -139,7 +139,7 @@ and May 2007. That's 2 years longer than the longest drawdown period of my
 portfolio. During that time, **it lost up to 46.8% of its value**.
 
 ### 100% bonds
-{{< figure src="/images/histogram-of-monthly-returns-ftse-wgbi-hedged-eur.svg" caption="Histogram of monthly returns of FTSE World Government Bond (Hedged EUR) between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgYgKgygogBAdQPYCcA2ATOBxJA3AUxQDsBbA4gFzgCElisBaOAEQMLSQAcCsBZAIYoA1gUoBnOAAoAErwDmvODACqAJQCUIADTBQAGRUAGAMwB2ABwWAjDZPWd1gLougA?periodEnd=2019-11&periodStart=2000-12))" >}}
+{{< figure src="/images/histogram-of-monthly-returns-ftse-wgbi-hedged-eur.svg" caption="Histogram of monthly returns of FTSE World Government Bond (Hedged EUR) between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgYgKgygogBAdQPYCcA2ATOBxJA3AUxQDsBbA4gFzgCElisBaOAEQMLSQAcCsBZAIYoA1gUoBnOAAoAErwDmvODACqAJQCUIADTBQAGRUAGAMwB2ABwWAjDZPWd1gLougA?config=%7B%22periodStart%22%3A%222000-12%22%2C%22periodEnd%22%3A%222019-11%22%7D))" >}}
 
 As expected, the returns are far less extreme. The worst months are:
 
@@ -158,7 +158,7 @@ Interestingly, **the bond index has had some of its best months when stocks
 weren't performing**, for instance in November 2008. That shows that there
 are times when the correlation between bonds and stocks is very low.
 
-{{< figure src="/images/drawdown-ftse-wgbi-hedged-eur.svg" caption="Drawdown chart of FTSE World Government Bond (Hedged EUR) between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgYgKgygogBAdQPYCcA2ATOBxJA3AUxQDsBbA4gFzgCElisBaOAEQMLSQAcCsBZAIYoA1gUoBnOAAoAErwDmvODACqAJQCUIADTBQAGRUAGAMwB2ABwWAjDZPWd1gLougA?periodEnd=2019-11&periodStart=2000-12))" >}}
+{{< figure src="/images/drawdown-ftse-wgbi-hedged-eur.svg" caption="Drawdown chart of FTSE World Government Bond (Hedged EUR) between Dec 2000 and Nov 2019 (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgYgKgygogBAdQPYCcA2ATOBxJA3AUxQDsBbA4gFzgCElisBaOAEQMLSQAcCsBZAIYoA1gUoBnOAAoAErwDmvODACqAJQCUIADTBQAGRUAGAMwB2ABwWAjDZPWd1gLougA?config=%7B%22periodStart%22%3A%222000-12%22%2C%22periodEnd%22%3A%222019-11%22%7D))" >}}
 
 As expected, the drawdown chart also looks less extreme. **The longest drawdown
 period lasted for 2 years and 11 months between July 2016 and July
@@ -181,7 +181,7 @@ What is the effect of periodic investing as opposed to investing a one-off lump
 sum? The theory says that it should reduce volatility. Let's see if that's the
 case for us!
 
-{{< figure src="/images/histogram-of-monthly-returns-recurrent-investments.svg" caption="Histogram of monthly returns of my portfolio between Dec 2000 and Nov 2019 with a €200 monthly investment (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?periodEnd=2019-11&periodStart=2000-12))" >}}
+{{< figure src="/images/histogram-of-monthly-returns-recurrent-investments.svg" caption="Histogram of monthly returns of my portfolio between Dec 2000 and Nov 2019 with a €200 monthly investment (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?config=%7B%22investmentPatterns%22%3A%5B%5B%22recurrent%22%2C1%2C200%5D%5D%2C%22periodStart%22%3A%222000-12%22%2C%22periodEnd%22%3A%222019-11%22%7D))" >}}
 
 Worst months:
 
@@ -198,7 +198,7 @@ Best months:
 The distribution of monthly returns did not change. This makes sense as
 a €200 investment is negligible compared to the value of the total portfolio.
 
-{{< figure src="/images/drawdown-recurrent-investments.svg" caption="Drawdown chart of my portfolio between Dec 2000 and Nov 2019 with a €200 monthly investment (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?periodEnd=2019-11&periodStart=2000-12))" >}}
+{{< figure src="/images/drawdown-recurrent-investments.svg" caption="Drawdown chart of my portfolio between Dec 2000 and Nov 2019 with a €200 monthly investment (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?config=%7B%22investmentPatterns%22%3A%5B%5B%22recurrent%22%2C1%2C200%5D%5D%2C%22periodStart%22%3A%222000-12%22%2C%22periodEnd%22%3A%222019-11%22%7D))" >}}
 
 However, we see that the recurrent investment pattern has significantly
 improved the drawdown behaviour. When we invested a lump sum, our longest
@@ -215,8 +215,8 @@ short-term volatility in the markets.** For instance, compare the average
 return of my portfolio for a one-off €10,000 investment for the following two
 10-year periods:
 
-- May 2007 to May 2017: 5.89% (from [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?periodEnd=2017-06&periodStart=2007-05))
-- February 2009 to February 2019: 12.96% (from [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?periodEnd=2019-03&periodStart=2009-02))
+- May 2007 to May 2017: 5.89% (from [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?config=%7B%22periodStart%22%3A%222007-05%22%2C%22periodEnd%22%3A%222017-05%22%7D))
+- February 2009 to February 2019: 12.96% (from [Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?config=%7B%22periodStart%22%3A%222009-02%22%2C%22periodEnd%22%3A%222019-02%22%7D))
 
 **The periods are less than two years apart yet the average annual return rate
 is more than twice the difference!** The reason is that in the first scenario,

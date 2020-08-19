@@ -95,10 +95,10 @@ REIT               | [Amundi ETF FTSE EPRA NAREIT Global](https://www.justetf.co
 During my research, I looked for existing software that I could use to run this
 analysis, but I couldn't find one that suited my needs. So I used my software
 engineering skills to build my own. All the numbers and charts that follow come
-from [the simulation on Backtest](https://backtest.curvo.eu/sharpe-ratio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA).
+from [the simulation on Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?config=%7B%22periodStart%22%3A%222000-12%22%2C%22periodEnd%22%3A%222015-12%22%7D).
 
 ### The results
-**The Sharpe ratio of the portfolio is 0.36** for the period from 2000 to 2015.
+**The Sharpe ratio of the portfolio is 0.34** for the period from 2000 to 2015.
 What does this mean? This doesn't tell us very much on its own, so we'll need to
 compare it against benchmarks.
 
@@ -111,7 +111,7 @@ The results are in the table below.
 
 |Name|Average annual return|Standard deviation|Sharpe ratio|
 |--- |--- |--- |--- |
-|Yoran's Portfolio|7.2%|20.3|0.36|
+|Yoran's Portfolio|7.2%|20.3|0.34|
 |S&P 500|5.4%|18.6|0.29|
 |MSCI World|5.4%|23.0|0.24|
 
@@ -148,7 +148,7 @@ We'll start with Berkshire Hathaway, Warren Buffett's "fund". Because it's a
 publicly traded company, the historical data is available on [Yahoo Finance](https://finance.yahoo.com/quote/BRK-A/history?period1=322120800&period2=1559883600&interval=1mo&filter=history&frequency=1mo).
 From 2000 to 2015, its **Sharpe ratio was 0.46** for an annual average return of
 **8.5%** and a standard deviation of 18.5. This is better than the Sharpe ratio
-of my portfolio, which was only 0.36. But that's to be expected, considering
+of my portfolio, which was only 0.34. But that's to be expected, considering
 Warren Buffett is one of the most successful investors in recent decades.
 
 Let's look at another legendary fund: the Medallion Fund. It's managed by

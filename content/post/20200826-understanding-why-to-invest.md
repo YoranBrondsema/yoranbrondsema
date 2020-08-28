@@ -3,7 +3,7 @@ title: "Understanding why to invest through the financial goals spectrum"
 date: 2020-08-26T22:02:10+02:00
 slug: understanding-why-to-invest-through-the-financial-goals-spectrum
 tags: ["Investing"]
-description: "TODO"
+description: "Understand why to invest through the financial goals spectrum."
 ---
 
 I'm currently reading [Pragmatic Capitalism](https://www.goodreads.com/book/show/20579803-pragmatic-capitalism)

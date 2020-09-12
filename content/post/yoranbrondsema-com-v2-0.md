@@ -2,7 +2,7 @@
 title: "yoranbrondsema.com v2.0"
 date: 2017-11-02T19:37:17-05:00
 slug: "yoranbrondsema-com-v2-0"
-tags: ["Meta"]
+tags: ["Computer things"]
 ---
 
 Unfortunately I was too laxist with renewing the hosting that this website was

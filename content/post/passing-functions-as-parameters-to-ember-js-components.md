@@ -2,7 +2,7 @@
 title: "Passing functions as parameters to Ember.js components"
 date: 2017-11-12T16:12:12-06:00
 slug: 'passing-functions-as-parameters-to-ember-js-components'
-tags: ['Ember.js', 'Javascript', 'Programming']
+tags: ["Computer things"]
 ---
 
 When you pass arguments to components, these are usually values, i.e.  numbers,

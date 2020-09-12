@@ -2,7 +2,7 @@
 title: "Reflection on \"How not to structure your database-backed web applications: a study of performance bugs in the wild\""
 date: 2018-08-03T17:38:21+02:00
 toc: true
-tags: ["Ruby on Rails", "Paper"]
+tags: ["Computer things"]
 ---
 
 ## The morning paper

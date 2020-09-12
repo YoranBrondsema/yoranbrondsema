@@ -2,7 +2,7 @@
 title: "Move to Netlify"
 date: 2017-11-30T18:35:50-06:00
 slug: "move-to-netlify"
-tags: ["Meta"]
+tags: ["Computer things"]
 ---
 
 In <a href="{{< ref "post/yoranbrondsema-com-v2-0.md" >}}">a previous post</a> I

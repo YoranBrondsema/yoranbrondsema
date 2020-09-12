@@ -2,7 +2,7 @@
 title: "Single sign on and privilege escalation"
 date: 2017-11-09T20:55:05-06:00
 slug: 'single-sign-on-and-privilege-escalation'
-tags: ['Security', 'Programming']
+tags: ["Computer things"]
 ---
 
 Over the past few years, it's become common to use your Google, Twitter, or even

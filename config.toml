@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Yoran Brondsema"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "UA-109409655-1"
-paginate = 20
+paginate = 200
 
 [params]
   name = "Yoran Brondsema"

@@ -12,11 +12,6 @@ paginate = 200
   enableRSS = true
   enableGoogleAnalytics = true
 
-  enableDisqus = false
-  enableDuoshuo = false
-  enableGithubIssuesTips = false
-  enableBaiduAnalytics = false
-
   # Add custom assets with their paths relative to the static folder
   customCSS = []
   customJS  = []
@@ -36,14 +31,11 @@ paginate = 200
   readMore = ""
   copyright = ""
   # Sharing options and author information in posts
-  aboutAuthor = "I am so interesting."
   tweet = ""
   share = ""
   # 404 page
   title404 = ""
   subtitle404 = ""
 
-  # Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-  iconFont = "font-awesome"
   # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
   socialIconStyle = ""

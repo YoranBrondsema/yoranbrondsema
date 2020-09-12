@@ -11,19 +11,23 @@ As the author, you give the email of the invitee. In the backend, it then
 creates a record of type `Invitation` and sends the invitation email. The mailer
 looks like this:
 
-    class InvitationMailer < ApplicationMailer
-      def invitation(invitation:)
-        mail(
-          to: invitation.email,
-          subject: "You've been invited!"
-        )
-      end
-    end
+```ruby
+class InvitationMailer < ApplicationMailer
+  def invitation(invitation:)
+    mail(
+      to: invitation.email,
+      subject: "You've been invited!"
+    )
+  end
+end
+```
 
 Then we started getting the following errors:
 
-    ActiveJob::DeserializationError: Error while trying to deserialize
-    arguments: Couldn't find Invitation with 'id'=12345
+```ruby
+ActiveJob::DeserializationError: Error while trying to deserialize arguments:
+Couldn't find Invitation with 'id'=12345
+```
 
 The crucial part is that the email is sent asynchronously through ActiveJob.
 This is the sequence of events that caused this error:
@@ -51,17 +55,19 @@ The solution is simple: instead of passing the full record to the mailer, we
 only pass it an ID. We then abort if the record does not exist in the database.
 So the mailer interface becomes:
 
-    class InvitationMailer < ApplicationMailer
-      def invitation(invitation_id:)
-        invitation = Invitation.find_by(id: invitation_id)
-        return if invitation.nil?
+```ruby
+class InvitationMailer < ApplicationMailer
+  def invitation(invitation_id:)
+    invitation = Invitation.find_by(id: invitation_id)
+    return if invitation.nil?
 
-        mail(
-          to: invitation.email,
-          subject: "You've been invited!"
-        )
-      end
-    end
+    mail(
+      to: invitation.email,
+      subject: "You've been invited!"
+    )
+  end
+end
+```
 
 Thanks to [this PR](https://github.com/rails/rails/pull/8048) that was merged
 into Rails back in 2012, the mail won't get rendered if no call to `mail()` is

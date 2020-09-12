@@ -76,14 +76,15 @@ Here, I select the ones that I have seen the most when working on Sutori.
 The following two lines of code, although functionally equivalent, result in two
 different SQL queries where one is slightly less efficient.
 
-  {{< highlight ruby >}}
+```ruby
 # inefficient because of the unnecessary ordering
 # SELECT * FROM users WHERE id = 1 ORDER BY id ASC LIMIT 1
 User.where(id: 1).first
 
 # efficient
 # SELECT * FROM users WHERE id = 1 LIMIT 1
-User.find_by(id: 1){{< / highlight >}}
+User.find_by(id: 1)
+```
 
 ### Moving computation to the DBMS
 Oftentimes, one can move computations from the application directly to the
@@ -92,12 +93,13 @@ database don't have to be marshalled to Ruby objects. Secondly, operations in
 the database are highly optimized and are run as native code instead of being
 interpreted.
 
-  {{< highlight ruby >}}
+```ruby
 # inefficient
 User.pluck(:total).sum
 
 # efficient
-User.sum(:total){{< / highlight >}}
+User.sum(:total)
+```
 
 ### N+1 queries
 N+1 queries are classic issues that have already been worn with discussion, but
@@ -122,18 +124,20 @@ method.
 
 Imagine you have to do a union of multiple queries, as in:
 
-  {{< highlight ruby >}}
+```ruby
 users_with_a_subscription = User.where(is_subscribed: true)
-users_from_the_eu = User.where(region: 'eu'){{< / highlight >}}
+users_from_the_eu = User.where(region: 'eu')
+```
 
 #### First solution: concatenation of arrays of records
 You could try the inefficient way.
 
-  {{< highlight ruby >}}
+```ruby
 users_with_a_subscription = User.where(is_subscribed: true)
 users_from_the_eu = User.where(region: 'eu')
 
-result = users_with_a_subscription + users_from_the_eu{{< / highlight >}}
+result = users_with_a_subscription + users_from_the_eu
+```
 
 There are two problems here:
 
@@ -149,13 +153,14 @@ There are two problems here:
 #### Second solution: pluck the IDs
 Instead, you can go for a more efficient solution.
 
-  {{< highlight ruby >}}
+```ruby
 users_with_a_subscription = User.where(is_subscribed: true)
 users_from_the_eu = User.where(region: 'eu')
 
 result = User.where(
   id: users_with_a_subscription.pluck(:id) + users_from_the_eu.pluck(:id)
-){{< / highlight >}}
+)
+```
 
 This is better! You now perform three queries instead of two but the first two
 are a bit more efficient as you only fetch the `id` column of the `users` table
@@ -166,13 +171,14 @@ still have to construct an array of 200,000 elements but this time they are
 simply integers (or fixed-length strings if your primary key is a UUID) instead
 of ActiveRecord records. From Sutori:
 
-  {{< highlight ruby >}}
+```ruby
 # 120 bytes
 ObjectSpace.memsize_of(User.first)
 
 # it returns 0 bytes but I suspect it's 4 bytes as it corresponds to
 # 32-bit precision.
-ObjectSpace.memsize_of(1053252353262364364){{< / highlight >}}
+ObjectSpace.memsize_of(1053252353262364364)
+```
 
 This solution has one other problem though: you quickly fill up Rails' cache of
 prepared statements. A prepared statement is the compiled version of an SQL
@@ -194,11 +200,12 @@ So what is best solution? I recommend using the
 `[or](https://api.rubyonrails.org/v5.2.0/classes/ActiveRecord/QueryMethods.html#method-i-or)`
 method that was introduced in Rails 5. It's very simple.
 
-  {{< highlight ruby >}}
+```ruby
 users_with_a_subscription = User.where(is_subscribed: true)
 users_from_the_eu = User.where(region: 'eu')
 
-result = users_with_a_subscription.or(users_from_the_eu){{< / highlight >}}
+result = users_with_a_subscription.or(users_from_the_eu)
+```
 
 Here's why this is better:
 
@@ -235,8 +242,9 @@ that fix the issue.
 
 For instance, I can give you the following implementation of quicksort in Haskell:
 
-  {{< highlight haskell >}}
-qsort (p:xs) = qsort [x | x<-xs, x<p] ++ [p] ++ qsort [x | x<-xs, x>=p]{{< / highlight >}}
+```haskell
+qsort (p:xs) = qsort [x | x<-xs, x<p] ++ [p] ++ qsort [x | x<-xs, x>=p]
+```
 
 Simple, right? It's only one line of code! However, there are so many concepts
 packed into this one line of code. Someone who doesn't know about list
@@ -289,7 +297,7 @@ developer's computer or on CI.
 Assuming that you use RSpec, you can set this up by adding the following
 snippet to the RSpec configuration in `spec/rails_helper.rb`:
 
-  {{< highlight ruby >}}
+```ruby
 # spec/rails_helper.rb
 config.around(:each, type: 'request') do |example|
   unless example.metadata[:bullet] == false
@@ -300,7 +308,8 @@ config.around(:each, type: 'request') do |example|
   example.run
 
   Bullet.enable = false
-end{{< / highlight >}}
+end
+```
 
 This has helped us more than once in preventing an N+1 query from creeping into
 production code. However, it's not a perfect solution, as its effectiveness
@@ -334,7 +343,9 @@ We then set up a `DEBUG` environment that connects to this remote database
 instead of the local database. So running the app with production data is as
 easy as running:
 
-  {{< highlight bash >}}$ RAILS_ENV=debug rails s{{< / highlight >}}
+```bash
+$ RAILS_ENV=debug rails s
+```
 
 Naturally, this drastically degrades the performance of the application as a
 simple 1ms query to the local database now requires a round-trip to an AWS data

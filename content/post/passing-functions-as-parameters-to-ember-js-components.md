@@ -12,33 +12,41 @@ function instead of a value.
 
 This means that the following is perfectly fine.
 
-    // components/outer-component/component.js
+```javascript
+// components/outer-component/component.js
 
-    export default Component.extend({
-      widthAsFunction: computed(function() {
-        return () => {
-          return this.element.offsetWidth;
-        }
-      })
-    });
+export default Component.extend({
+  widthAsFunction: computed(function() {
+    return () => {
+      return this.element.offsetWidth;
+    }
+  })
+});
+```
 
-    // components/outer-component/template.hbs
-    {{inner-component
-        widthAsFunction=widthAsFunction
-    }}
+```handlebars
+// components/outer-component/template.hbs
+{{inner-component
+    widthAsFunction=widthAsFunction
+}}
+```
 
 and
 
-    // components/inner-component/component.js
+```javascript
+// components/inner-component/component.js
 
-    export default Component.extend({
-      width: computed('widthAsFunction', function() {
-        return this.get('widthAsFunction')();
-      })
-    });
+export default Component.extend({
+  width: computed('widthAsFunction', function() {
+    return this.get('widthAsFunction')();
+  })
+});
+```
 
-    // components/inner-component/template.hbs
-    {{width}}
+```handlebars
+// components/inner-component/template.hbs
+{{width}}
+```
 
 Why would you want to do this? There are certainly disadvantages to passing
 functions instead of values:
@@ -55,10 +63,12 @@ this when I wanted to delay the computation of the width in `inner-component`
 until the value was actually needed. Imagine you would pass it as a value as in
 the following:
 
-    // components/outer-component/template.hbs
-    {{inner-component
-        width=element.offsetWidth
-    }}
+```handlebars
+// components/outer-component/template.hbs
+{{inner-component
+    width=element.offsetWidth
+}}
+```
 
 The value of the parameter `width` would be set once at the initialization of
 `inner-component` and never updated. Indeed, `element.offsetWidth` is a normal

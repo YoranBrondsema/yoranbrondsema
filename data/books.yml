@@ -1,3 +1,32 @@
+- title: "The River of Doubt: Theodore Roosevelt's Darkest Journey"
+  author: "Candice Millard"
+  favorite: true
+- title: "Le Joueur d'échecs"
+  author: "Stefan Zweig"
+- title: "Joel on Software"
+  author: "Joel Spolsky"
+  favorite: true
+- title: "The Haçienda: How Not to Run a Club"
+  author: "Peter Hook"
+- title: "The Virtue of Selfishness: A New Concept of Egoism"
+  author: "Ayn Rand"
+- title: "Super Pumped: The Battle for Uber"
+  author: "Mike Isaac"
+- title: " Pragmatic Capitalism: What Every Investor Needs to Know About Money and Finance"
+  author: "Cullen Roche"
+- title: "In Europa"
+  author: "Geert Mak"
+  favorite: true
+- title: "The Metamorphosis"
+  author: "Franz Kafka"
+- title: "The Sun Also Rises"
+  author: "Ernest Hemingway"
+  favorite: true
+- title: "The End of the End of the Earth: Essays"
+  author: "Jonathan Franzen"
+  favorite: true
+- title: "Solitude de la pitié"
+  author: "Jean Giono"
 - title: "The Unabomber's Manifesto: Industrial Society and Its Future"
   author: "Theodore J. Kaczynski"
 - title: "L'homme qui plantait des arbres"

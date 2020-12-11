@@ -38,7 +38,7 @@ There is not really a strategy to reduce this tax. Since it's a percentage,
 buying more or less securities in one transaction isn't going to affect the
 total amount of tax that you will end up paying.
 
-## Tax on dividends ("roerende voorheffing" or "pŕecompte mobilier")
+## Tax on dividends ("roerende voorheffing" or "précompte mobilier")
 There's a 30% tax on dividends that you perceive through shares that you hold.
 This tax is applicable to individual stocks but also to distributing funds.
 

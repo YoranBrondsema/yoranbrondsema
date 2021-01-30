@@ -1,0 +1,17 @@
+{{ partial "head.html" . }}
+<body>
+{{ partial "nav.html" . }}
+{{ partial "profile.html" . }}
+
+<section id="wrapper" class="static-page">
+  {{ partial "page-title.html" (dict "title" "Investment portfolio") }}
+
+  {{ .Content }}
+
+  {{ partial "curvo-call-to-action.html" . }}
+
+  {{ partial "footer.html" . }}
+</section>
+
+{{ partial "js.html" . }}
+</body>

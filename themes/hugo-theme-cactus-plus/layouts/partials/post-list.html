@@ -1,0 +1,17 @@
+<ul id="post-list">
+    {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
+    {{ $url := replace .Permalink .Site.BaseURL "" }}
+        {{ if ne $url "about/" }}
+            <li>
+                <a href='{{ .Permalink }}'>
+                  <time class="dates" datetime="{{ .Date.Format "2006-01-02" }}">
+                    {{ .Date.Format "Jan 2 '06" }}
+                  </time>
+                </a>
+                <a href='{{ .Permalink }}'>
+                    {{ .Title }}
+                </a>
+            </li>
+        {{ end }}
+    {{ end }}
+</ul>

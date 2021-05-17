@@ -41,6 +41,8 @@ I post the performance reports of [my portfolio](/investment-portfolio) on a
 quarterly basis. The regularity gives me the discipline to keep track and get
 insights.
 
+* [2021 Q1]({{< ref "post/20210515-portfolio-performance-report-q1-2021.md" >}})
+* [2020 Q4]({{< ref "post/20210130-portfolio-performance-report-q4-2020.md" >}})
 * [2020 Q3]({{< ref "post/20201123-portfolio-performance-report-q3-2020.md" >}})
 * [2020 Q2]({{< ref "post/20200802-portfolio-performance-report-q2-2020.md" >}})
 * [2020 Q1]({{< ref "post/20200407-portfolio-performance-report-q1-2020.md" >}})
@@ -53,4 +55,4 @@ insights.
 * [2018 Q2]({{< ref "post/portfolio-performance-report-july-2018.md" >}})
 
 ## Back-test your portfolio
-I developed [Backtest](https://backtest.curvo.eu), the back-testing tool for European investors. Use it to discover the past performance of your portfolio. As an example, [analyze the past performance of my portfolio](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQAYBmAdgA4mBGNu10mgOnYF0yIAJIBRGjQBCAFgoBWMAE4mdbjwYAmQaDETJAFQBSAJQCyaOnLWt+toA).
+I developed [Backtest](https://backtest.curvo.eu), the back-testing tool for European investors. Use it to discover the past performance of your portfolio. As an example, [analyze the past performance of my portfolio](https://backtest.curvo.eu/portfolio/yoran-s-portfolio--NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQAYBmAdgA4mBGNu10mgOnYF0yIAJIBRGjQBCAFgoBWMAE4mdbjwYAmQaDETJAFQBSAJQCyaOnLWt+toA).

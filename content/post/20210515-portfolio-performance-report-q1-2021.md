@@ -64,18 +64,23 @@ investments?
   me according to my Curvo portfolio. I won't have to do anything!
 - **No need to combine investments.** When investing regularly, there's a
   trade-off between the frequency at which you can invest and the cost of
-  trading. You want to invest as frequently as possible, but you also don't
-  want your return eaten by broker fees. Also, some ETFs trade at such a high
-  price that sometimes you can't even buy a single share with your monthly
-  contribution. The cool thing with Curvo is that it handles fractional shares.
-  So it doesn't matter if I contribute €200 monthly but a share costs €300. My
-  full €200 will be invested and there will never be any cash left on my
-  Curvo account doing nothing. Also, since we don't charge per trade, it
-  won't change whether I invest every month or once per year.
+  trading. Also, some ETFs trade at such a high price that sometimes you can't
+  even buy a single share with your monthly contribution. The cool thing with
+  Curvo is that it handles fractional shares.  So it doesn't matter if I
+  contribute €200 monthly but a share costs €300. My full €200 will be invested
+  and there will never be any cash left on my Curvo account doing nothing.
+  Also, since we don't charge per trade, it won't change whether I invest every
+  month or once per year.
 - **No need to worry about rebalancing.** Again, this is a task that I find
   annoying by now. The rebalancing is infrequent enough, but the monitoring is
   something I do every month. Curvo will take care of it so I don't have to
   worry.
+- **Invest according to my values.** My current portfolio does not take into
+  account environmental or social considerations. This means that all this
+  time, I've been investing in oil and gas companies, and in companies that
+  produce cluster bombs and other controversial weapons. And these are counter
+  to my values. With Curvo, we took the deliberate decision of excluding the
+  companies that we think are most destructive to our planet.
 - **Manage all my investments through my phone.** Lynx has a mobile app that
   works fine for tracking the evolution of my portfolio. But to make the
   investments, I prefer to use my laptop. First of all, I need a spreadsheet to

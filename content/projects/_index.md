@@ -1,7 +1,7 @@
 Here is a selection of the projects that I am working on or have worked on in
 the past.
 
-## [Curvo](https://curvo.eu/?utm_source=yoranbrondsema-blog&utm_medium=projects)
+## [Curvo](https://curvo.eu)
 Our latest project that I introduced [in a post](https://www.yoranbrondsema.com/post/introducing-enzo-a-better-way-of-saving-money/).
 Investing is hard yet I believe it's crucial for our generation to be
 well-prepared for the future. Curvo aims to make passive investing easy and

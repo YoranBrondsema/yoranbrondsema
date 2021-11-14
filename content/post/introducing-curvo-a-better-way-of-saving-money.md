@@ -47,7 +47,7 @@ individual contributions will become more and more important.
 
 ## So we started Curvo
 For these reasons, me and Thomas started
-[Curvo](https://curvo.eu/?utm_source=yoranbrondsema-blog&utm_medium=blog-post&utm_campaign=introducing-curvo): our goal is
+[Curvo](https://curvo.eu): our goal is
 to **improve the financial well-being of our generation** by giving easy access
 to passive investing. No need to read dozens of books on how to define your
 asset allocation like we did. No need to study the [Bogleheads wiki](https://www.bogleheads.org/wiki/Investing_from_Belgium) to learn about
@@ -70,12 +70,8 @@ and loved by this many users. We are now applying these skills, knowledge and
 experience to Curvo.
 
 ## Built for Europeans
-We are building Curvo specifically for Europeans. We started a [waiting list](https://curvo.eu/?utm_source=yoranbrondsema-blog&utm_medium=blog-post&utm_campaign=introducing-curvo#sign-up) because we are still in the process of acquiring a
-license. This is required to be operate a company in the finance industry. We
-are expecting to launch the product during the next few months.
-
 **If Curvo piques your interest, don't hesitate to head over to
-[curvo.eu](https://curvo.eu/?utm_source=yoranbrondsema-blog&utm_medium=blog-post&utm_campaign=introducing-curvo) and try out our calculator to see how much you
+[curvo.eu](https://curvo.eu) and try out our calculator to see how much you
 can improve your savings.**
 
 ![Cover for Curvo](/images/curvo-cover.png)

@@ -1,11 +1,10 @@
 Here is a selection of the projects that I am working on or have worked on in
 the past.
 
-## [Curvo](https://curvo.eu)
-Our latest project that I introduced [in a post](https://www.yoranbrondsema.com/post/introducing-enzo-a-better-way-of-saving-money/).
+## [Curvo](https://curvo.eu): passive investing made easy for Belgians
 Investing is hard yet I believe it's crucial for our generation to be
-well-prepared for the future. Curvo aims to make passive investing easy and
-accessible to European millennials.
+well-prepared for the future. Curvo makes passive investing easy and accessible
+to Belgian millennials. Read more on [why we started Curvo](https://www.yoranbrondsema.com/post/introducing-enzo-a-better-way-of-saving-money/).
 
 ## [Sutori](https://www.sutori.com)
 I'm also the CTO of Sutori. It's the app that I've spent the most time working
@@ -13,7 +12,7 @@ on. It's also the biggest piece of software that I've built. It's currently
 used by over 1.4 million teachers and students across the world, which is
 something we're all proud of!
 
-## [Backtest](https://backtest.curvo.eu)
+## [Backtest](https://backtest.curvo.eu): the backtesting tool for the European passive investor
 The back-testing tool for European index investors. Many of the articles on
 this blog are analyses of my portfolio. For that, I built my own custom
 back-testing software. Over time, it evolved into something pretty valuable so

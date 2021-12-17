@@ -1,3 +1,8 @@
+## 2021 - present
+In July 2021, I switched my investments over to [Curvo](https://curvo.eu), the
+app that I developed together with my co-founder Thomas Ketchell. I'm currently on the [Curvo Growth portfolio](https://curvo.eu/portfolios#growth). You can also [explore its past performance](https://backtest.curvo.eu/portfolio/curvo-growth--NoIgwgrgTgbg9gAgOJTgdwC4AsQBpigCSAogAykBCArACxUBsA7DTXqQHQAcAuviCeQoBpAGqkA6gCYaAZjbtJ3JUA).
+
+## 2018 - 2021
 I believe in passive investing through index funds as the best way to invest as
 an average common investor.
 

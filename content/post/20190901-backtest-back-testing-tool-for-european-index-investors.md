@@ -20,7 +20,7 @@ investors, are left in the cold.
 
 I discussed the idea with my [Curvo](https://curvo.eu) co-founder Thomas and we
 agreed that we should make the tool available to anyone. Then, after a weekend
-of coding in July 2019, we released **[Backtest](https://backtest.curvo.eu/),
+of coding in July 2019, we released **[Backtest](https://curvo.eu/backtest/),
 the back-testing tool for European index investors**.
 
 {{< figure src="/images/backtest.gif" caption="Backtest in action" >}}
@@ -29,10 +29,10 @@ the back-testing tool for European index investors**.
 In short, Backtest lets you get more insight into portfolios that consist of
 index funds. Some common use cases are:
 
-* **Back-test your portfolio.** We have the official historical data for a lot of the popular ETFs and Backtest can run an analysis on the past performance of your portfolio. For example, take a look at the performance since 1981 of [Lars Kroijer's Rational portfolio](https://backtest.curvo.eu/portfolio/NoIgMghgTgzgBAaSgewJYCsCmUDk8BKEALqsgHYQA2cACslEQGbKWlwAUAssgCbbGYAlCAA0wUGACqARgDsADmkBWACzS5ATlEAGAHRKAumPCTtAZgWLFZ6Tv0GHQA).
-* **Share your portfolio.** Want to show someone your portfolio? Just send them [the link](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA)! No sign-up or login is required. All the information about the portfolio is embedded in the link.
-* **Compare different allocations of the same portfolio.** How would your return change if you added more weight to the fixed-income portion of your portfolio? You can answer these questions with the comparator on Backtest. See for example a [comparison of three allocations of the same portfolio](https://backtest.curvo.eu/compare?portfolios=NoIgMghgTgzgBAaSgewJYCsCmUDk8BKEALqsgHYQA2cACslEQGbKWlwAUAggObdSYwYqAG6YAlCAA0wUGACqARgDsADgUBWACwLlATikAGAHQqAutPByDAZlVq11hYaMAmU%2B6A%2CNoIgMghgTgzgBAaSgewJYCsCmUDk8BKEALqsgHYQA2cACslEQGbKWlwAUAwuTNgG7FUfTAEoQAGmCgwAVQCMAdgAccgKwAWOYoCcEgAwA6AEwBdSeBl6AzMpUqrc-QaUnXQA%2CNoIgMghgTgzgBAaSgewJYCsCmUDk8BKEALqsgHYQA2cACslEQGbKWlwAUAssgCbbGYAlCAA0wUGACqARgDsADmkBWACzS5ATlEAGAHRKAumPCTtAZgWLFZ6Tv0GHQA).
-* **Share a comparison.** Do you want to show off how your portfolio is so much better than someone else's? Just send them the link to the [comparison](https://backtest.curvo.eu/compare?portfolios=NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA%2CNoIgMghgTgzgBAaSgewJYCsCmUDk8BKEALqsgHYQA2cACslEQGbKWlwAUAggObdSYwYqAG6YAlCAA0wUGACqARgDsADgUBWACwLlATikAGAHQqAutPByDAZlVq11hYaMAmU%2B6A).
+* **Back-test your portfolio.** We have the official historical data for a lot of the popular ETFs and Backtest can run an analysis on the past performance of your portfolio. For example, take a look at the performance since 1981 of [Lars Kroijer's Rational portfolio](https://curvo.eu/backtest/portfolio/NoIgMghgTgzgBAaSgewJYCsCmUDk8BKEALqsgHYQA2cACslEQGbKWlwAUAssgCbbGYAlCAA0wUGACqARgDsADmkBWACzS5ATlEAGAHRKAumPCTtAZgWLFZ6Tv0GHQA).
+* **Share your portfolio.** Want to show someone your portfolio? Just send them [the link](https://curvo.eu/backtest/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA)! No sign-up or login is required. All the information about the portfolio is embedded in the link.
+* **Compare different allocations of the same portfolio.** How would your return change if you added more weight to the fixed-income portion of your portfolio? You can answer these questions with the comparator on Backtest. See for example a [comparison of three allocations of the same portfolio](https://curvo.eu/backtest/compare?portfolios=NoIgMghgTgzgBAaSgewJYCsCmUDk8BKEALqsgHYQA2cACslEQGbKWlwAUAggObdSYwYqAG6YAlCAA0wUGACqARgDsADgUBWACwLlATikAGAHQqAutPByDAZlVq11hYaMAmU%2B6A%2CNoIgMghgTgzgBAaSgewJYCsCmUDk8BKEALqsgHYQA2cACslEQGbKWlwAUAwuTNgG7FUfTAEoQAGmCgwAVQCMAdgAccgKwAWOYoCcEgAwA6AEwBdSeBl6AzMpUqrc-QaUnXQA%2CNoIgMghgTgzgBAaSgewJYCsCmUDk8BKEALqsgHYQA2cACslEQGbKWlwAUAssgCbbGYAlCAA0wUGACqARgDsADmkBWACzS5ATlEAGAHRKAumPCTtAZgWLFZ6Tv0GHQA).
+* **Share a comparison.** Do you want to show off how your portfolio is so much better than someone else's? Just send them the link to the [comparison](https://curvo.eu/backtest/compare?portfolios=NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA%2CNoIgMghgTgzgBAaSgewJYCsCmUDk8BKEALqsgHYQA2cACslEQGbKWlwAUAggObdSYwYqAG6YAlCAA0wUGACqARgDsADgUBWACwLlATikAGAHQqAutPByDAZlVq11hYaMAmU%2B6A).
 
 ## Where do I want to take Backtest?
 **I want Backtest to become the best back-testing tool for European investors.**
@@ -48,7 +48,7 @@ And of course, more ETFs and indexes need to be added. At the time of writing,
 Backtest supports 255 ETFs but there are many more out there that investors
 have in their portfolios.
 
-For these reasons, I am still [actively improving Backtest](https://backtest.curvo.eu/updates). But I need your help to do it.
+For these reasons, I am still [actively improving Backtest](https://curvo.eu/backtest/updates). But I need your help to do it.
 
 ## I need your feedback and comments
 Since I first released Backtest, I've received many emails and comments on Reddit

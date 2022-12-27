@@ -88,7 +88,7 @@ Cap Value** index.
 Let's find out how the MSCI World Small Cap variants have compared to each
 other in the past:
 
-{{< figure src="/images/msci-world-small-cap.svg" caption="Evolution of the MSCI World Small Cap variants (source: [Backtest](https://backtest.curvo.eu/compare-indexes))" >}}
+{{< figure src="/images/msci-world-small-cap.svg" caption="Evolution of the MSCI World Small Cap variants (source: [Backtest](https://curvo.eu/backtest/compare-indexes))" >}}
 
 A backtesting period of 20 years is statistically insignificant. But it's
 encouraging because it confirms the research: the premium as a result of the

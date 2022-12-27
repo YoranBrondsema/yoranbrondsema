@@ -95,7 +95,7 @@ REIT               | [Amundi ETF FTSE EPRA NAREIT Global](https://www.justetf.co
 During my research, I looked for existing software that I could use to run this
 analysis, but I couldn't find one that suited my needs. So I used my software
 engineering skills to build my own. All the numbers and charts that follow come
-from [the simulation on Backtest](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?config=%7B%22periodStart%22%3A%222000-12%22%2C%22periodEnd%22%3A%222015-12%22%7D).
+from [the simulation on Backtest](https://curvo.eu/backtest/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQEYAWAZgHYAGGgDnYfdJYDoWATgC6ZEAEkAoixYAhAGJ0ASvIASDGrz71RoKTNl0KAVjCCuWuiLHUWzThxoatHXROlyAKgCklAWTQGYxdhUKA?config=%7B%22periodStart%22%3A%222000-12%22%2C%22periodEnd%22%3A%222015-12%22%7D).
 
 ### The results
 **The Sharpe ratio of the portfolio is 0.34** for the period from 2000 to 2015.

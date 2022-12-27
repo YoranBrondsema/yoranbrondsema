@@ -19,7 +19,7 @@ A big portion of the bonds in the "Xtrackers Global Government Bond" fund are de
 
 A [study by Vanguard](https://www.vanguardfrance.fr/documents/global-fixed-income-tlisg.pdf) showed that both options have yielded similar returns in the past. However, they believe that when faced with two seemingly equivalent alternatives, they recommend going global because of the additional diversification. When you only hold bonds from the Eurozone, you limit yourself to one particular region of the world. By exposing yourself to bonds from the entire developed market, you get a diversification benefit.
 
-Therefore, I opted to replace my bond fund with its Euro-hedged counterpart [Xtrackers Global Government Bond EUR Hedged](https://www.justetf.com/en/etf-profile.html?isin=LU0378818131). It tracks the same index but is hedged to Euro. A [check on Backtest](https://backtest.curvo.eu/compare?portfolios=NoIgQg9gdgJgBACQKYwOYrgUQKoCUQA0woAMtgAwDMA7ABy0CMjlDhDAup0A%2CNoIgQg9gdgJgBAUQKoCUQBpigDJIAwCceAHAKwkDsAzAIwY0C6TQA) confirms the theory: this fond is less volatile (as measured by standard deviation).
+Therefore, I opted to replace my bond fund with its Euro-hedged counterpart [Xtrackers Global Government Bond EUR Hedged](https://www.justetf.com/en/etf-profile.html?isin=LU0378818131). It tracks the same index but is hedged to Euro. A [check on Backtest](https://curvo.eu/backtest/compare?portfolios=NoIgQg9gdgJgBACQKYwOYrgUQKoCUQA0woAMtgAwDMA7ABy0CMjlDhDAup0A%2CNoIgQg9gdgJgBAUQKoCUQBpigDJIAwCceAHAKwkDsAzAIwY0C6TQA) confirms the theory: this fond is less volatile (as measured by standard deviation).
 
 ## Composition
 After the change, my portfolio looks as follows:

@@ -1,6 +1,6 @@
 ## 2021 - present
 In July 2021, I switched my investments over to [Curvo](https://curvo.eu), the
-app that I developed together with my co-founder Thomas Ketchell. I'm currently on the [Curvo Growth portfolio](https://curvo.eu/portfolios#growth). You can also [explore its past performance](https://backtest.curvo.eu/portfolio/curvo-growth--NoIgwgrgTgbg9gAgOJTgdwC4AsQBpigCSAogAykBCArACxUBsA7DTXqQHQAcAuviCeQoBpAGqkA6gCYaAZjbtJ3JUA).
+app that I developed together with my co-founder Thomas Ketchell. I'm currently on the [Curvo Growth portfolio](https://curvo.eu/portfolios#growth). You can also [explore its past performance](https://curvo.eu/backtest/portfolio/curvo-growth--NoIgwgrgTgbg9gAgOJTgdwC4AsQBpigCSAogAykBCArACxUBsA7DTXqQHQAcAuviCeQoBpAGqkA6gCYaAZjbtJ3JUA).
 
 ## 2018 - 2021
 I believe in passive investing through index funds as the best way to invest as
@@ -11,7 +11,7 @@ book [All About Asset Allocation](https://www.goodreads.com/book/show/9316522-al
 Many of the funds available to Americans are not accessible to Europeans like
 myself so I had to build an EU-version of the portfolio he suggests.
 
-Find out [how my portfolio has performed in the past](https://backtest.curvo.eu/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQAYBmAdgA4mBGNu10mgOnYF0yIAJIBRGjQBCAFgoBWMAE4mdbjwYAmQaDETJAFQBSAJQCyaOnLWt+toA).
+Find out [how my portfolio has performed in the past](https://curvo.eu/backtest/portfolio/NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQAYBmAdgA4mBGNu10mgOnYF0yIAJIBRGjQBCAFgoBWMAE4mdbjwYAmQaDETJAFQBSAJQCyaOnLWt+toA).
 
 | ETF                                                                                                 | Type        | Allocation 
 |-----------------------------------------------------------------------------------------------------|-------------|------------

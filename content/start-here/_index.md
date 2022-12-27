@@ -57,8 +57,8 @@ investing.
 If this piques your interest, find out more on [curvo.eu](https://curvo.eu)!
 
 ## Backtest: the backtesting tool for the European index investor
-I developed [Backtest](https://backtest.curvo.eu), the backtesting tool for the
-European index investor. Use it to gain insight into your portfolio through its performance in the past. As an example, [analyze the past performance of my portfolio](https://backtest.curvo.eu/portfolio/curvo-growth--NoIgwgrgTgbg9gAgOJTgdwC4AsQBpigCSAogAykBCArACxUBsA7DTXqQHQAcAuviCeQoBpAGqkA6gCYaAZjbtJ3JUA).
+I developed [Backtest](https://curvo.eu/backtest), the backtesting tool for the
+European index investor. Use it to gain insight into your portfolio through its performance in the past. As an example, [analyze the past performance of my portfolio](https://curvo.eu/backtest/portfolio/curvo-growth--NoIgwgrgTgbg9gAgOJTgdwC4AsQBpigCSAogAykBCArACxUBsA7DTXqQHQAcAuviCeQoBpAGqkA6gCYaAZjbtJ3JUA).
 
 ## Performance reports between 2018 and 2021
 Between 2018 and 2021, I posted the performance reports of [my portfolio](/investment-portfolio) on a quarterly basis. The regularity gave me

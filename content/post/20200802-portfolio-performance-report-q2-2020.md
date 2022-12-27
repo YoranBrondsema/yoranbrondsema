@@ -45,5 +45,5 @@ investing seriously early 2018, I was convinced that my portfolio was a very
 good one. It was, but it turned out that I could make it even better by simply
 removing assets. But I figured that out only because I continued to read books
 and watch videos about investing. Doing my own research through this blog and
-[Backtest](https://backtest.curvo.eu) is also a great wayfor me to keep
+[Backtest](https://curvo.eu/backtest) is also a great wayfor me to keep
 learning.

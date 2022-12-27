@@ -124,7 +124,7 @@ We are now ready to start the simulation: **if we had invested €1,000 in Febru
 The answer is €3,375 or a **5.47% average annual return rate (AARR)**.
 
 Instead of running the simulation in a spreadsheet, I created a small website
-called [Backtest](https://backtest.curvo.eu) that runs the simulation for me.
+called [Backtest](https://curvo.eu/backtest) that runs the simulation for me.
 As a professional web developer, I found this method to be easier, and it
 provided a means to share the information with others in a more aesthetic way
 (although I recognize there is room for improvement when it comes to its visual

@@ -17,7 +17,7 @@ working on three projects at the same time, each demanding their share of time:
   that I'm trying to focus as much time as possible on the development of the
   mobile app that Curvo customers will use to invest and keep track of their
   portfolio.
-- [Backtest](https://backtest.curvo.eu). Since we launched Backtest in July of
+- [Backtest](https://curvo.eu/backtest). Since we launched Backtest in July of
   last year, its usage has increased to 250 daily users. It's not a huge number
   but it's growing fairly steadily. We were at 100 users per day only 3 months
   ago. I've been trying to keep up with the rate of funds that users have been

@@ -75,7 +75,7 @@ Developed Markets (Hedged EUR)** index. The latter is a global index of
 investment-grade government bonds. The bonds portion of my portfolio follows
 this index.
 
-{{< figure src="/images/correlation--ftse-epra-nareit-developed--ftse-world-government-bond-developed-markets-hedged-eur.svg" caption="36-month rolling correlation between the FTSE EPRA/NAREIT Developed index and the FTSE World Government Bond Developed Markets (Hedged EUR) index (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgSgogkgKgBAMjgIQPYDsAmBnEAaYUAGQFUBGAFgGYB2ABjIA5GrH86A6AVgF0CRSdAGwBOOiKEVxAJnbceCoA))" >}}
+{{< figure src="/images/correlation--ftse-epra-nareit-developed--ftse-world-government-bond-developed-markets-hedged-eur.svg" caption="36-month rolling correlation between the FTSE EPRA/NAREIT Developed index and the FTSE World Government Bond Developed Markets (Hedged EUR) index (source: [Backtest](https://curvo.eu/backtest/portfolio/NoIgSgogkgKgBAMjgIQPYDsAmBnEAaYUAGQFUBGAFgGYB2ABjIA5GrH86A6AVgF0CRSdAGwBOOiKEVxAJnbceCoA))" >}}
 
 The correlation changes a lot, but there are clearly periods where it's low or
 even negative.
@@ -85,7 +85,7 @@ index with the **MSCI World** index, a stock index. Overall, the correlation is
 quite high, although there have been periods where the correlation was close to
 zero.
 
-{{< figure src="/images/correlation--ftse-epra-nareit-developed--msci-world.svg" caption="36-month rolling correlation between the FTSE EPRA/NAREIT Developed index and the MSCI World index (source: [Backtest](https://backtest.curvo.eu/portfolio/NoIgSgogkgKgBAMjgZQC4HsDGBrAziAGmFABkBVARgBYBmAdgAYKAOZm5whgOgFYBdIiHIU6zCjyoURATk68+CoA))" >}}
+{{< figure src="/images/correlation--ftse-epra-nareit-developed--msci-world.svg" caption="36-month rolling correlation between the FTSE EPRA/NAREIT Developed index and the MSCI World index (source: [Backtest](https://curvo.eu/backtest/portfolio/NoIgSgogkgKgBAMjgZQC4HsDGBrAziAGmFABkBVARgBYBmAdgAYKAOZm5whgOgFYBdIiHIU6zCjyoURATk68+CoA))" >}}
 
 After seeing these numbers, I'm not totally convinced that the real estate
 market truly diversifies my portfolio, especially in relation to stocks.
@@ -104,7 +104,7 @@ even better.
 |MSCI World|€75,144|6.86%|0.34|
 |FTSE EPRA/NAREIT Developed|€68,941|6.55%|0.30|
 
-{{< figure src="/images/comparison--ftse-epra-nareit-developed--msci-world.svg" caption="Comparison of €10,000 invested in the FTSE EPRA/NAREIT Developed fund and the MSCI World fund (source: [Backtest](https://backtest.curvo.eu/compare?portfolios=NoIgsgygwgkgBAdQPYCcA2ATEAaYoYCiADEQEIAsAMgKwCaAnABwDMOAjALpdA%2CNoIgYgKgygogBDACgJQIIHoByrkwJIRwAiApgG4kA2A9gA4kAmIANMKADICqAjACwDMAdgAM3ABxj%2BYltwC68oA))" >}}
+{{< figure src="/images/comparison--ftse-epra-nareit-developed--msci-world.svg" caption="Comparison of €10,000 invested in the FTSE EPRA/NAREIT Developed fund and the MSCI World fund (source: [Backtest](https://curvo.eu/backtest/compare?portfolios=NoIgsgygwgkgBAdQPYCcA2ATEAaYoYCiADEQEIAsAMgKwCaAnABwDMOAjALpdA%2CNoIgYgKgygogBDACgJQIIHoByrkwJIRwAiApgG4kA2A9gA4kAmIANMKADICqAjACwDMAdgAM3ABxj%2BYltwC68oA))" >}}
 
 ## Why REITs *don't* belong in a passive investment portfolio
 However, there are also reasons for excluding a separate REIT fund from your
@@ -166,7 +166,7 @@ portion to the MSCI World fund instead:
 |Yoran's Portfolio|€87,024|7.37%|0.43|
 |Yoran's Portfolio (without REIT)|€85,480|7.31%|0.42|
 
-{{< figure src="/images/comparison--yoran-portfolio-reit.svg" caption="Comparison of €10,000 invested in my portfolio that includes the REIT fund and that excludes the REIT fund (source: [Backtest](https://backtest.curvo.eu/compare?portfolios=NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQAYBmAdgA4mBGNu10mgOnYF0yIAJIBRGjQBCAFgoBWMAE4mdbjwBsdQaDETJAFQBSAJQCyaOnLWttIaq2mMa7FUzU1F-L0A%2CNoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhQAoB3AzACwgFdMUAlAUQEkAVAShABphQAMgFUADAGYA7AA4pARjljZvEQDp5AXT4hWzESIBCAFgEBWMAE4pY5SokAmTaB1797AFKMAsmjEmbI80Cg4JCpdXCgA))" >}}
+{{< figure src="/images/comparison--yoran-portfolio-reit.svg" caption="Comparison of €10,000 invested in my portfolio that includes the REIT fund and that excludes the REIT fund (source: [Backtest](https://curvo.eu/backtest/compare?portfolios=NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQAYBmAdgA4mBGNu10mgOnYF0yIAJIBRGjQBCAFgoBWMAE4mdbjwBsdQaDETJAFQBSAJQCyaOnLWttIaq2mMa7FUzU1F-L0A%2CNoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhQAoB3AzACwgFdMUAlAUQEkAVAShABphQAMgFUADAGYA7AA4pARjljZvEQDp5AXT4hWzESIBCAFgEBWMAE4pY5SokAmTaB1797AFKMAsmjEmbI80Cg4JCpdXCgA))" >}}
 
 My current portfolio, which includes the REIT, performs slightly better.
 
@@ -180,7 +180,7 @@ top, albeit slightly, reflecting the impact of broker fees.
 |Yoran's Portfolio|€227,369|3.80%|0.96|
 |Yoran's Portfolio (without REIT)|€233,059|3.88%|0.96|
 
-{{< figure src="/images/comparison--yoran-portfolio-reit-recurrent.svg" caption="Comparison of monthly investments of €200 with a €6 transaction fee between my portfolio that includes the REIT fund and that excludes the REIT fund (source: [Backtest](https://backtest.curvo.eu/compare?config=%7B%22investmentPatterns%22%3A%5B%5B%22recurrent%22%2C1%2C200%5D%5D%2C%22transactionFee%22%3A6%7D&portfolios=NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQAYBmAdgA4mBGNu10mgOnYF0yIAJIBRGjQBCAFgoBWMAE4mdbjwBsdQaDETJAFQBSAJQCyaOnLWttIaq2mMa7FUzU1F-L0A%2CNoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhQAoB3AzACwgFdMUAlAUQEkAVAShABphQAMgFUADAGYA7AA4pARjljZvEQDp5AXT4hWzESIBCAFgEBWMAE4pY5SokAmTaB1797AFKMAsmjEmbI80Cg4JCpdXCgA))" >}}
+{{< figure src="/images/comparison--yoran-portfolio-reit-recurrent.svg" caption="Comparison of monthly investments of €200 with a €6 transaction fee between my portfolio that includes the REIT fund and that excludes the REIT fund (source: [Backtest](https://curvo.eu/backtest/compare?config=%7B%22investmentPatterns%22%3A%5B%5B%22recurrent%22%2C1%2C200%5D%5D%2C%22transactionFee%22%3A6%7D&portfolios=NoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhABphQAZAVQAYBmAdgA4mBGNu10mgOnYF0yIAJIBRGjQBCAFgoBWMAE4mdbjwBsdQaDETJAFQBSAJQCyaOnLWttIaq2mMa7FUzU1F-L0A%2CNoIgmg9gTghgdgcgM4AIAK0AuAzCAbASwhQAoB3AzACwgFdMUAlAUQEkAVAShABphQAMgFUADAGYA7AA4pARjljZvEQDp5AXT4hWzESIBCAFgEBWMAE4pY5SokAmTaB1797AFKMAsmjEmbI80Cg4JCpdXCgA))" >}}
 
 ## Verdict: drop the REIT fund
 Taking all the pros and cons into consideration, I decided to **drop the REIT

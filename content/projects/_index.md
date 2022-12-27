@@ -12,7 +12,7 @@ on. It's also the biggest piece of software that I've built. It's currently
 used by over 1.4 million teachers and students across the world, which is
 something we're all proud of!
 
-## [Backtest](https://backtest.curvo.eu): the backtesting tool for the European passive investor
+## [Backtest](https://curvo.eu/backtest): the backtesting tool for the European passive investor
 The back-testing tool for European index investors. Many of the articles on
 this blog are analyses of my portfolio. For that, I built my own custom
 back-testing software. Over time, it evolved into something pretty valuable so

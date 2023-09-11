@@ -1,14 +1,11 @@
 {{ partial "head.html" . }}
 <body>
 {{ partial "nav.html" . }}
-{{ partial "profile.html" . }}
 
 <section class="wrapper static-page">
-  {{ partial "page-title.html" (dict "title" "Start here") }}
+  {{ partial "page-title.html" (dict "title" "Entrepreneurship") }}
 
   {{ .Content }}
-
-  {{ partial "curvo-call-to-action.html" . }}
 
   {{ partial "footer.html" . }}
 </section>

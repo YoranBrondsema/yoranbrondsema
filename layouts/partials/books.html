@@ -11,14 +11,14 @@
 <p>
   The list below enumerates all the books that I've read since July 2013, which
   is when I started tracking my reading on <a href="https://www.goodreads.com/review/list/22085294-yoran?shelf=read">Goodreads</a>.
-<span style="font-weight: bold;">My favorite books are marked in bold</span>.
+<span style="font-weight: bold;">My favourite books are marked in bold</span>.
 </p>
 
 <h2>Books read between 2013–today</h2>
 
 <ul class="books">
   {{ range $.Site.Data.books }}
-    <li class="{{ with .favorite }}favorite{{ end }}">
+    <li class="{{ with .favorite }}favourite{{ end }}">
       <span class="books-title">{{ .title }}</span>
       <span class="books-author">{{ .author }}</span>
     </li>

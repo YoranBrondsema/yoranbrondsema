@@ -1,6 +1,8 @@
+I am convinced that passive investing (also called index investing) is the best way for most people to grow their wealth and prepare for their financial future. I [started a company](/entrepreneurship) around this idea.
+
 ## 2021 - present
 In July 2021, I switched my investments over to [Curvo](https://curvo.eu), the
-app that I developed together with my co-founder Thomas Ketchell. I'm currently on the [Curvo Growth portfolio](https://curvo.eu/portfolios#growth). You can also [explore its past performance](https://curvo.eu/backtest/portfolio/curvo-growth--NoIgwgrgTgbg9gAgOJTgdwC4AsQBpigCSAogAykBCArACxUBsA7DTXqQHQAcAuviCeQoBpAGqkA6gCYaAZjbtJ3JUA).
+app that I developed together with my co-founder Thomas Ketchell. I'm currently on the [Growth portfolio](https://curvo.eu/portfolios#growth). You can also [explore its past performance](https://curvo.eu/backtest/portfolio/curvo-growth--NoIgwgrgTgbg9gAgOJTgdwC4AsQBpigCSAogAykBCArACxUBsA7DTXqQHQAcAuviCeQoBpAGqkA6gCYaAZjbtJ3JUA).
 
 ## 2018 - 2021
 I believe in passive investing through index funds as the best way to invest as

@@ -1,5 +1,5 @@
 baseURL = "https://www.yoranbrondsema.com/"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Yoran Brondsema"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "UA-109409655-1"
@@ -7,7 +7,7 @@ paginate = 200
 
 [params]
   name = "Yoran Brondsema"
-  description = "Blog about passive investing for Belgians and Europeans."
+  description = "Co-founder of Curvo and Sutori, author of \"De hangmatbelegger\", based in Brussels, Belgium."
   bio = "Yoran blogs about passive investing for Belgians and Europeans. CTO of Curvo and Sutori."
   enableRSS = true
   enableGoogleAnalytics = true

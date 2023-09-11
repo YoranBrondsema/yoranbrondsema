@@ -1,10 +1,9 @@
 {{ partial "head.html" . }}
 <body>
 {{ partial "nav.html" . }}
-{{ partial "profile.html" . }}
 
-<section id="wrapper" class="static-page">
-  {{ partial "page-title.html" (dict "title" "Investment portfolio") }}
+<section class="wrapper static-page">
+  {{ partial "page-title.html" (dict "title" "Passive investing") }}
 
   {{ .Content }}
 

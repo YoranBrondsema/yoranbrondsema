@@ -125,10 +125,9 @@ body {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 40px;
   letter-spacing: -1px;
   color: #222;
-  font-weight: bold;
 }
 
 h2 {
@@ -138,24 +137,14 @@ h2 {
   color: #bbb;
 }
 
-.profile #wrapper {
+.profile.wrapper {
   padding: 60px 40px 0px;
-  max-width: 600px;
   margin: 0 auto;
 }
 
 .profile #header {
   margin-bottom: 60px;
-  text-align: center;
   position: relative;
-}
-
-.profile h2 {
-  font-weight: 400;
-  letter-spacing: 0px;
-  font-size: 20px;
-  color: #222;
-  font-style: normal;
 }
 
 nav.main-nav {
@@ -211,13 +200,13 @@ nav.main-nav a.cta {
   }
 }
 
-#wrapper {
+.wrapper {
   max-width: 800px;
   margin: 0 auto;
-  padding: 60px 40px 100px 40px;
+  padding: 60px 40px 60px 40px;
 }
 
-#wrapper.home {
+.wrapper.home {
   max-width: 600px;
   margin: 0 auto;
   padding: 0px 40px 20px 40px;
@@ -305,20 +294,6 @@ em, i {
   color: #aaa;
 }
 
-.home h1 {
-  font-size: 30px;
-  letter-spacing: -1px;
-  color: #222;
-  font-weight: bold;
-}
-
-.home h2 {
-  font-style: italic;
-  font-size: 19px;
-  line-height: 1.3em;
-  color: #bbb;
-}
-
 .home li {
   margin: 20px 0;
   line-height: 1.7;
@@ -336,7 +311,7 @@ em, i {
   line-height: 1.4em;
 }
 
-.post h2 {
+h2 {
   margin-top: 45px;
   margin-bottom: 18px;
   font-weight: 300;
@@ -566,10 +541,6 @@ Post List
 
 
 /* Post Page */
-
-#header {
-}
-
 .post {
   margin: auto;
 }
@@ -751,7 +722,7 @@ h2.month {
 /* Media Queries */
 
 @media screen and (max-width: 540px) {
-  #wrapper {
+  .wrapper {
     padding: 20px 20px 20px 20px;
   }
   #header {
@@ -913,7 +884,7 @@ a.symbol:hover {
  * tags page
  */
 
-#wrapper.tags {
+.wrapper.tags {
   padding: 0px 40px 20px 40px;
 }
 .page-tags {
@@ -951,7 +922,6 @@ a.symbol:hover {
 }
 
 .page-title {
-  text-align: center;
   font-weight: 400;
   margin-bottom: 30px;
   font-size: 40px;
@@ -1030,4 +1000,19 @@ sup a:after {
 /* Simplify portfolio pt 2 (https://www.yoranbrondsema.com/post/simplifying-my-portfolio-pt-2-what-about-reits) */
 .table-simplify-portfolio-reit tbody tr:nth-child(4) td {
   background: #D7E4F8;
+}
+
+.home .wrapper {
+  padding-top: 0;
+}
+
+.cover-dehangmatbelegger {
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+.posts-intro {
+  margin: 40px 0;
 }

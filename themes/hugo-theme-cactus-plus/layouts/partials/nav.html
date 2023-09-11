@@ -1,15 +1,15 @@
 <nav class="main-nav">
 	{{ $url := replace .Permalink .Site.BaseURL "" }}
 	{{ if not .IsHome }}
-		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
+		<a href='/'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
-	<a href='{{ .Site.BaseURL }}start-here'>Start here</a>
-	<a href='{{ .Site.BaseURL }}investment-portfolio'>Investment portfolio</a>
-	<a href='{{ .Site.BaseURL }}projects'>Projects</a>
-	<a href='{{ .Site.BaseURL }}books'>Books</a>
-	<a href='{{ .Site.BaseURL }}about'>About</a>
+	<a href='/entrepreneurship'>Entrepreneurship</a>
+	<a href='/my-book'>My book</a>
+	<a href='/investment-portfolio'>Passive investing</a>
+	<a href='/reading'>Reading</a>
+	<a href='/open-invite'>Open invite</a>
 
-	<a href='{{ .Site.BaseURL }}post' class="main-nav-link-secondary">{{ with .Site.Params.archive }}{{ . }}{{ else }}Archive{{ end }}</a>
+	<a href='/post' class="main-nav-link-secondary">{{ with .Site.Params.archive }}{{ . }}{{ else }}Blog posts{{ end }}</a>
 
 	{{ range $key, $val := .Site.Params.Links }}
 		<a href="{{ $val }}">{{ $key }}</a>

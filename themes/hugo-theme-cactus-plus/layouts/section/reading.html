@@ -2,10 +2,9 @@
 
 <body>
   {{ partial "nav.html" . }}
-  {{ partial "profile.html" . }}
 
-  <section id="wrapper" class="static-page">
-    {{ partial "page-title.html" (dict "title" "Books") }}
+  <section class="wrapper static-page">
+    {{ partial "page-title.html" (dict "title" "Reading") }}
 
     {{ partial "books.html" . }}
 

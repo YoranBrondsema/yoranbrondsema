@@ -6,3 +6,8 @@ HUGO_ENV = "production"
   from = "/about"
   to = "/"
   status = 301
+
+[[redirects]]
+  from = "/books"
+  to = "/reading"
+  status = 301

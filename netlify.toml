@@ -6,8 +6,22 @@ HUGO_ENV = "production"
   from = "/about"
   to = "/"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/books"
   to = "/reading"
   status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/taxes-you-should-know-about-as-a-belgian-investor"
+  to = "https://curvo.eu/article/taxes-belgian-investors"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/taxes-you-should-know-about-as-a-belgian-investor/"
+  to = "https://curvo.eu/article/taxes-belgian-investors"
+  status = 301
+  force = true

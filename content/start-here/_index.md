@@ -30,10 +30,10 @@ find some useful information in the following posts.
 
 Furthermore, I wrote a couple of relevant articles on [Curvo's Academy](https://curvo.eu/academy):
 
-* ["Épargne-pension"/"pensioensparen" vs passive investing](https://curvo.eu/article/how-does-investing-in-a-pension-account-epargne-pension-compare-to-passive-investing-for-belgians)
+* ["Épargne-pension"/"pensioensparen" vs passive investing](https://curvo.eu/article/etf-vs-belgian-pension-saving)
 * [Homeownership vs passive investing](https://curvo.eu/article/im-thinking-about-buying-a-house-but-im-also-interested-in-investing-in-index-funds-whats-the-best-return-on-investment)
 * [I want to start investing but I’m worried about losing all my money](https://curvo.eu/article/i-want-to-start-investing-but-im-worried-about-losing-all-my-money)
-* [Taxes you should know about as a Belgian investor](https://curvo.eu/article/taxes-you-should-know-about-as-a-belgian-investor)
+* [Taxes you should know about as a Belgian investor](https://curvo.eu/article/taxes-belgian-investors)
 * [How to calculate the Belgian transaction tax of an ETF](https://curvo.eu/article/how-to-calculate-the-belgian-transaction-tax-of-an-etf)
 
 ## Curvo: the easiest way to passively invest

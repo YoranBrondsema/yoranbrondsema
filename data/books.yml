@@ -1,3 +1,62 @@
+- title: "The Great Mental Models: General Thinking Concepts"
+  author: "Shane Parrish"
+- title: "FInite and Infinite Games: A Vision of Life as Play and Possibility"
+  author: "James Carse"
+  favorite: true
+- title: "The Greatest Minds and Ideas of All Time"
+  author: "Will Durant"
+- title: "Human, All Too Human: A Book for Free Spirits"
+  author: "Friedrich Nietzsche"
+  favorite: true
+- title: "The Lessons of History"
+  author: "Will Durant"
+  favorite: true
+- title: "Bel-Ami"
+  author: "Guy de Maupassant"
+- title: "Traction: A Startup Guide to Getting Customers"
+  author: "Gabriel Weinberg"
+- title: "Why Startups Fail: A New Roadmap for Entrepreneurial Success"
+  author: "Tom Eisenmann"
+- title: "Vol de nuit"
+  author: "Antoine de Saint-Exupéry"
+  favorite: true
+- title: "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets"
+  author: "Nassim Nicholas Taleb"
+  favorite: true
+- title: "The Mystic Hand"
+  author: "Johan Van Overtveldt"
+- title: "Sun & Steel"
+  author: "Yukio Mishima"
+- title: "The Little Book of House Plants and Other Greenery"
+  author: "Emma Sibley"
+- title: "The Master Switch: The Rise and Fall of Information Empires"
+  author: "Tim Wu"
+- title: "Eli Schwartz"
+  author: "Product-Led SEO: The Why Behind Building Your Organic Growth Strategy"
+- title: "A Farewell to Arms"
+  author: "Ernest Hemingway"
+  favorite: true
+- title: "The Way of the Superior Man"
+  author: "David Deida"
+- title: "Trillions: How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever"
+  author: "Robin Wigglesworth"
+  favorite: true
+- title: "Le Petit Prince"
+  author: "Antoine de Saint-Exupéry"
+- title: "Sans famille"
+  author: "Hector Malot"
+  favorite: true
+- title: "Adapative Markets: Financial Evolution at the Speed of Thought"
+  author: "Andrew Lo"
+- title: "Bronze Age Mindset"
+  author: "Bronze Age Pervert"
+- title: "Hackers and Painters: Big Ideas from the Computer Age"
+  author: "Paul Graham"
+  favorite: true
+- title: "Sidekiq in Practice"
+  author: "Nate Berkopec"
+- title: "Discours de la méthode"
+  author: "René Descartes"
 - title: "Let My People Go Surfing: The Education of a Reluctant Businessman"
   author: "Yvon Chouinard"
 - title: "Investing: The Last Liberal Art"
@@ -10,11 +69,11 @@
   favorite: true
 - title: "The Psychology of Money"
   author: "Morgan Housel"
-- title: " The Company: A Short History of a Revolutionary Idea"
+- title: "The Company: A Short History of a Revolutionary Idea"
   author: "John Micklethwait"
 - title: "Your Complete Guide to Factor-Based Investing: The Way Smart Money Invests Today"
   author: "Andrew Berkin, Larry Swedroe"
-- title: " The pmarca blog archives"
+- title: "The pmarca blog archives"
   author: "Marc Andreessen"
 - title: "How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need"
   author: "Bill Gates"
@@ -29,11 +88,11 @@
   author: "Robert T. Kiyosaki"
 - title: "Content Chemistry: An Illustrated Handbook for Content Marketing"
   author: "Andy Crestodina"
-- title: " Turning the Flywheel: A Monograph to Accompany Good to Great"
+- title: "Turning the Flywheel: A Monograph to Accompany Good to Great"
   author: "Jim Collins"
-- title: " Never Split the Difference: Negotiating As If Your Life Depended On It"
+- title: "Never Split the Difference: Negotiating As If Your Life Depended On It"
   author: "Chris Voss"
-- title: " The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you"
+- title: "The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you"
   author: "Rob Fitzpatrick"
 - title: "Gaia: A New Look at Life on Earth"
   author: "James E. Lovelock"
@@ -49,6 +108,7 @@
   author: "Marc-Andre Giroux"
 - title: "The Pragmatic Programmer: From Journeyman to Master"
   author: "Andy Hunt"
+  favorite: true
 - title: "The River of Doubt: Theodore Roosevelt's Darkest Journey"
   author: "Candice Millard"
   favorite: true
@@ -59,11 +119,12 @@
   favorite: true
 - title: "The Haçienda: How Not to Run a Club"
   author: "Peter Hook"
+  favorite: true
 - title: "The Virtue of Selfishness: A New Concept of Egoism"
   author: "Ayn Rand"
 - title: "Super Pumped: The Battle for Uber"
   author: "Mike Isaac"
-- title: " Pragmatic Capitalism: What Every Investor Needs to Know About Money and Finance"
+- title: "Pragmatic Capitalism: What Every Investor Needs to Know About Money and Finance"
   author: "Cullen Roche"
 - title: "In Europa"
   author: "Geert Mak"
@@ -272,7 +333,7 @@
   author: Yuval Noah Harari
 - title: "Tell to Win: Connect, Persuade, and Triumph with the Hidden Power of Story"
   author: Peter Gruber
-- title: " The Snowball: Warren Buffett and the Business of Life"
+- title: "The Snowball: Warren Buffett and the Business of Life"
   author: Alice Schroeder
   favorite: true
 - title:  Tristes Tropiques

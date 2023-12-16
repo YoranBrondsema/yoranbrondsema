@@ -937,8 +937,8 @@ a.symbol:hover {
   margin: 20px 0;
 }
 
-.books li.favorite .books-title,
-.books li.favorite .books-author {
+.books li.favourite .books-title,
+.books li.favourite .books-author {
   font-weight: 600;
 }
 

@@ -35,5 +35,5 @@ on_project_start: firefox -new-window 'http://localhost:1313'
 # on_project_stop: command
 
 windows:
-  - hugo: hugo server -D
+  - hugo: npm run start
   - posts: cd .

@@ -1,0 +1,12 @@
+{
+  "name": "yoranbrondsema",
+  "description": "This is my Hugo-powered blog [yoranbrondsema.com](https://yoranbrondsema.com).",
+  "scripts": {
+    "start": "hugo server -D",
+    "deploy": "hugo && npx wrangler pages deploy public --project-name=yoranbrondsema --branch=master"
+  },
+  "author": "Yoran Brondsema",
+  "devDependencies": {
+    "wrangler": "^3.32.0"
+  }
+}

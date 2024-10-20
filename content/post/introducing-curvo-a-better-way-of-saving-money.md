@@ -22,7 +22,7 @@ investing is the best form of investing for most people.
 
 ## Investing is hard
 As I dug into the world of investing, I realized how difficult it is to get
-started. You have to [define your portfolio](https://www.yoranbrondsema.com/post/a-crash-course-on-asset-allocation/), [find a broker](https://www.yoranbrondsema.com/post/passive-investing-in-belgium/#how-do-i-buy-etfs), [know about taxes](https://www.yoranbrondsema.com/post/taxes-you-should-know-about-as-a-belgian-investor/),... Acquiring this knowledge and skills takes a lot of time, perseverance and a certain confidence in your own capacity for taking good decisions. The finance world is intimidating, filled with jargon and full of people who want to separate you from your money. Having gone through the whole process, I'm not surprised that hardly any of the people
+started. You have to [define your portfolio](https://yoranbrondsema.com/post/a-crash-course-on-asset-allocation/), [find a broker](https://yoranbrondsema.com/post/passive-investing-in-belgium/#how-do-i-buy-etfs), [know about taxes](https://yoranbrondsema.com/post/taxes-you-should-know-about-as-a-belgian-investor/),... Acquiring this knowledge and skills takes a lot of time, perseverance and a certain confidence in your own capacity for taking good decisions. The finance world is intimidating, filled with jargon and full of people who want to separate you from your money. Having gone through the whole process, I'm not surprised that hardly any of the people
 around me invest their money.
 
 This problem is especially important in Europe, where services like Wealthfront

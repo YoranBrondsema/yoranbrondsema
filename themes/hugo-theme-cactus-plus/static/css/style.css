@@ -992,12 +992,12 @@ sup a:after {
   margin: 0;
 }
 
-/* Simplify portfolio pt 1 (https://www.yoranbrondsema.com/post/simplifying-my-portfolio-pt-1-questioning-the-small-cap-fund) */
+/* Simplify portfolio pt 1 (https://yoranbrondsema.com/post/simplifying-my-portfolio-pt-1-questioning-the-small-cap-fund) */
 .table-simplify-portfolio-small-cap tbody tr:nth-child(3) td {
   background: #D7E4F8;
 }
 
-/* Simplify portfolio pt 2 (https://www.yoranbrondsema.com/post/simplifying-my-portfolio-pt-2-what-about-reits) */
+/* Simplify portfolio pt 2 (https://yoranbrondsema.com/post/simplifying-my-portfolio-pt-2-what-about-reits) */
 .table-simplify-portfolio-reit tbody tr:nth-child(4) td {
   background: #D7E4F8;
 }

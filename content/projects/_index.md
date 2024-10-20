@@ -4,7 +4,7 @@ the past.
 ## [Curvo](https://curvo.eu): passive investing made easy for Belgians
 Investing is hard yet I believe it's crucial for our generation to be
 well-prepared for the future. Curvo makes passive investing easy and accessible
-to Belgian millennials. Read more on [why we started Curvo](https://www.yoranbrondsema.com/post/introducing-enzo-a-better-way-of-saving-money/).
+to Belgian millennials. Read more on [why we started Curvo](https://yoranbrondsema.com/post/introducing-enzo-a-better-way-of-saving-money/).
 
 ## [Sutori](https://www.sutori.com)
 I'm also the CTO of Sutori. It's the app that I've spent the most time working

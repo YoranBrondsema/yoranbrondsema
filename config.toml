@@ -2,7 +2,6 @@ baseURL = "https://yoranbrondsema.com/"
 languageCode = "en-gb"
 title = "Yoran Brondsema"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = "UA-109409655-1"
 paginate = 200
 
 [params]
@@ -10,7 +9,6 @@ paginate = 200
   description = "Co-founder of Curvo and Sutori, author of \"De hangmatbelegger\", based in Brussels, Belgium."
   bio = "Yoran blogs about passive investing for Belgians and Europeans. CTO of Curvo and Sutori."
   enableRSS = true
-  enableGoogleAnalytics = true
 
   # Add custom assets with their paths relative to the static folder
   customCSS = []
